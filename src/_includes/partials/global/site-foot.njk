@@ -15,10 +15,7 @@
       </div>-->
       <div style="text-align: center;">
         <h2 class="font-base text-600">{{ site.name }}</h2>
-        <h3>Quick Links</h3>
-        <ul>
-          <li><a href="http://www.beechwoodswimclub.org/assets/img/Beechwood%20Swim_Club_BylawsAmmended.pdf">By-Laws</a></li>
-        </ul>
+        {{ site.footerQuickLinks | markdownFilter | safe }}
         <theme-toggle></theme-toggle>
       </div>
       {% if site.shortDesc %}
