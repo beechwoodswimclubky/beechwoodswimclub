@@ -3,4 +3,6 @@ layout: layouts/page.njk
 title: Food
 permalink: /food/index.html
 ---
-Snack Shop Menu
+## Snack Shop Menu
+
+Updated Menu Pending
