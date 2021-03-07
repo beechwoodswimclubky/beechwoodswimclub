@@ -5,9 +5,9 @@ permalink: /contact/index.html
 ---
 Business Hours
 
-* **Monday-Friday:** 11am to 9pm
-* **Saturday:** 11am to 9pm
-* **Sunday:** 11am to 9pm
+**Monday-Friday:** 11am to 9pm
+**Saturday:** 11am to 9pm
+**Sunday:** 11am to 9pm
 
 You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
 
