@@ -12,6 +12,10 @@
     {
       "text": "Contact",
       "url": "/contact"
+    },
+    {
+      "text": "Food",
+      "url": "/food"
     }
   ]
 }
