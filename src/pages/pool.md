@@ -7,13 +7,13 @@ permalink: /pool/index.html
 
 <div class="box-flex align-start prices">
 <div>
-**Age U-4**
+Age U-4
 </div>
 <div>
-**Age 5-12**
+Age 5-12
 </div>
 <div>
-**Age 12+**
+Age 12+
 </div>
 </div>
 
