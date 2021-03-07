@@ -76,3 +76,7 @@ img {
 @import 'components/video-player';
 
 theme-toggle { display: none !important; }
+
+.post-list__items { display: flex; }
+
+.post-list__items > * { width: 25%; }
