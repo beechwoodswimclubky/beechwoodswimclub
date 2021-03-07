@@ -1,20 +1,6 @@
 <footer role="contentinfo" class="[ site-foot ] [ pad-top-700 pad-bottom-900 ]">
   <div class="wrapper">
     <div class="[ site-foot__inner ] [ md:box-flex space-between align-start ]">
-      {% if site.shortDesc %}
-        <div>
-          <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
-            <!--<h2 class="font-base text-600">{{ site.name }}</h2>-->
-            {{ site.shortDesc | markdownFilter | safe }}
-          </article>
-        </div>
-      {% endif %}
-      <!--<div>
-        {% set ariaLabel = 'footer navigation' %}
-        {% include "partials/components/nav.njk" %}
-      </div>-->
-      <h2 class="font-base text-600">{{ site.name }}</h2>
-      <theme-toggle></theme-toggle>
       {% if site.footerHours %}
         <div>
           <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
@@ -24,13 +10,21 @@
         </div>
       {% endif %}
       <!--<div>
-        <h3>Contact Us</h3>
-        <ul>
-          <li><a href="https://www.google.com/search?q=247+Beechwood+Rd%2C+Fort+Mitchell%2C+KY+41017&oq=247+Beechwood+Rd%2C+Fort+Mitchell%2C+KY+41017&aqs=chrome..69i57.19836j0j1&sourceid=chrome&ie=UTF-8#">247 Beechwood Rd.<br>Fort Mitchell, KY 41017</a></li>
-          <li>Phone: 859-331-1644</li>
-          <li>Email: <a href="mailto:beechwoodswimclub@gmail.com" class="">beechwoodswimclub@gmail.com</a></li>
-        </ul>
+        {% set ariaLabel = 'footer navigation' %}
+        {% include "partials/components/nav.njk" %}
       </div>-->
+      <div style="text-align: center;">
+        <h2 class="font-base text-600">{{ site.name }}</h2>
+        <theme-toggle></theme-toggle>
+      </div>
+      {% if site.shortDesc %}
+        <div>
+          <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
+            <!--<h2 class="font-base text-600">{{ site.name }}</h2>-->
+            {{ site.shortDesc | markdownFilter | safe }}
+          </article>
+        </div>
+      {% endif %}
     </div>
     {% if site.showThemeCredit %}
       <p class="[ site-foot__credit ] [ pad-top-900 ]">
