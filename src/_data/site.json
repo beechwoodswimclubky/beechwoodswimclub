@@ -1,10 +1,11 @@
 {
   "showThemeCredit": true,
   "name": "Beechwood Swim Club",
-  "shortDesc": "<h3>Hours</h3><ul><li>Monday-Friday: 11am to 9pm</li><li>Saturday: 11am to 9pm</li><li>Sunday: 11am to 9pm</li></ul>",
+  "shortDesc": "### Contact Us\n\n* [247 Beechwood Rd.\\\n  Fort Mitchell, KY 41017](https://www.google.com/search?q=247+Beechwood+Rd%2C+Fort+Mitchell%2C+KY+41017&oq=247+Beechwood+Rd%2C+Fort+Mitchell%2C+KY+41017&aqs=chrome..69i57.19836j0j1&sourceid=chrome&ie=UTF-8#)\n* Phone: 859-331-1644\n* Email: [beechwoodswimclub@gmail.com](mailto:beechwoodswimclub@gmail.com)",
   "url": "https://beechwoodswimclub.org",
   "authorEmail": "beechwoodswimclubky@gmail.com",
   "authorHandle": "",
+  "footerHours": "### Hours\n\n* Monday-Friday: 11 am to 9 pm\n* Saturday: 11 am to 9 pm\n* Sunday: 11 am to 9 pm",
   "authorName": "Beechwood Swim Club",
   "enableThirdPartyComments": false,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
