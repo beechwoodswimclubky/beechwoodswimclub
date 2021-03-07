@@ -1,7 +1,7 @@
 {
   "showThemeCredit": true,
   "name": "Beechwood Swim Club",
-  "shortDesc": "<b>Hours</b><br><ul><li>Monday-Friday: 11am to 9pm</li><li>Saturday: 11am to 9pm</li><li>Sunday: 11am to 9pm</li></ul>",
+  "shortDesc": "<h3>Hours</h3><br><ul><li>Monday-Friday: 11am to 9pm</li><li>Saturday: 11am to 9pm</li><li>Sunday: 11am to 9pm</li></ul>",
   "url": "https://beechwoodswimclub.org",
   "authorEmail": "beechwoodswimclubky@gmail.com",
   "authorHandle": "",
