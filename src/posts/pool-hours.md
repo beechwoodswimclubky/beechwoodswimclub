@@ -6,4 +6,4 @@ icon: fa fa-food
 ---
 **Updates Pending**
 
-Pool Hours info
+We are open 11 am-9 pm every day weather permitting.
