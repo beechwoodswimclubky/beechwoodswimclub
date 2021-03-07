@@ -35,7 +35,7 @@ Please click the link at the bottom of this letter to login to your account and 
 
 **ALL MEMBERSHIPS PAYING DUES PLEASE USE THE LINK BELOW.**
 
-Please click on the login now button below to login to account and choose membership type and name of card holders. You will be required to update your password.
+Please click on the login now button below to login to your account and choose the membership type and name of cardholders. You will be required to update your password.
 
 Members can pay online with a credit card (subject to 3.75% upcharge to cover merchant processing) or mail checks to Beechwood Swim Club, PO Box 17066, Ft. Mitchell, KY 41017. Membership cards will not be activated until all fees are paid. There are no exceptions to this policy to be fair to all members.
 
@@ -45,8 +45,7 @@ If you have any questions, please send an email to [beechwoodswimclubky@gmail.co
 
 We are excited for the 2021 season and look forward to seeing you at the pool!
 
-Mailing Address:
-
+**Mailing Address:**
 Beechwood Swim Club, Inc.\
 PO BOX 17066\
 Fort Mitchell, KY 41017
