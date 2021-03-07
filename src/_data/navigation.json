@@ -6,12 +6,12 @@
       "external": false
     },
     {
-      "text": "Contact",
-      "url": "/contact"
-    },
-    {
       "text": "Membership",
       "url": "/membership"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
     }
   ]
 }
