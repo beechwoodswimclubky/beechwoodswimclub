@@ -1,24 +1,24 @@
 {
   "items": [
     {
-      "text": "home",
+      "text": "Home",
       "url": "/",
       "external": false
     },
     {
-      "text": "membership",
+      "text": "Membership",
       "url": "/membership"
     },
     {
-      "text": "pool",
+      "text": "Pool",
       "url": "/pool"
     },
     {
-      "text": "food",
+      "text": "Food",
       "url": "/food"
     },
     {
-      "text": "contact",
+      "text": "Contact",
       "url": "/contact"
     }
   ]
