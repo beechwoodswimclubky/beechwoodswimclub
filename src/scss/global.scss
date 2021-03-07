@@ -95,3 +95,12 @@ a { color: navy; }
 .nav.light .nav__item a[aria-current='page'] {
     color: #72c02c;
 }
+
+.nav__item {
+    padding: 0;
+    flex-shrink: 0;
+}
+
+.nav__item a {
+    padding: .8rem 0;
+}
