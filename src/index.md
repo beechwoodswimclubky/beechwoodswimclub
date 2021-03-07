@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Beechwood Swim Club
+title: Welcome to the 2021 Swim Season!
 metaDesc: Beechwood Swim Club is a private swim club located in the heart of
   Fort Mitchell, KY. With the convenient location and the expansive landscape,
   Beechwood provides a family-friendly atmosphere. We have one of the largest
