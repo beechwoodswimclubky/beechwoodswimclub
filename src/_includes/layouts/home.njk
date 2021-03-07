@@ -19,7 +19,13 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    {{ site.membershipDues | safe }}
+    {% if site.membershipDues %}
+      <div>
+        <article class="[ sf-flow measure-compact ]">
+          {{ site.membershipDues | markdownFilter | safe }}
+        </article>
+      </div>
+    {% endif %}
     {% include "partials/components/post-list.njk" %}
     {% include "partials/components/pagination.njk" %}
   </main>
