@@ -5,13 +5,13 @@ permalink: /membership/index.html
 ---
 Welcome to the 2021 Beechwood Swim Club season!  Beechwood Swim Club is a non-profit corporation operated by a group of elected volunteers.  Our main goal is to maintain a safe, family oriented recreational facility that will continue to foster memories, friendships, and legacies for future generations.  The 2021 Beechwood Swim Club Board of Directors are:
 
-Josh Colvin – President
-Jim Brannen – Vice President
-Stephanie Bogenschutz – Treasurer
-Barb Erardi – Secretary
-Gene Burchell – Director
-Kyle Burns – Director
-Kelley Young – Director
+* Josh Colvin – President
+* Jim Brannen – Vice President
+* Stephanie Bogenschutz – Treasurer
+* Barb Erardi – Secretary
+* Gene Burchell – Director
+* Kyle Burns – Director
+* Kelley Young – Director
 
 As you can see, the board has changed significantly from previous years.  We would like to thank Sherry Lentsch for her 18 years on the board with 17 of those years serving as the President.  We would also like to thank Steve Novak for his 12 years on the board with 11 of those years serving as the Treasurer, Mark Gamel for his 6 years serving on the Board with 3 of those years as the Vice President, and Tony Shoyat for his 5 years serving as a director.  Their efforts and commitment have set the pool up for a very bright future and their contributions are much appreciated and will always be remembered.
 
@@ -31,7 +31,7 @@ Babysitter - $100
 Guest Fee - $7 before 4pm, $5 after 4pm and for groups of 10 or more
 If anything changes to our opening date to due Covid-19 restrictions, we will send out an update to all members as soon as possible.
 
-Please click the link at the bottom of this letter to login to your account and pay your membership dues.  Members can pay online with a credit card or mail checks to Beechwood Swim Club, PO Box 17066, Ft. Mitchell, KY 41017.  All payments are due by April 15, 2021.  ALL PAYMENTS POSTMARKED AFTER APRIL 15 NEED TO INCLUDE A $50 LATE FEE.  If you chose to be inactive in 2020 and have not yet paid the inactive fee, you will be required to pay your 2020 inactive fee along with your 2021 dues.  If the inactive fee is not received by June 15, your bond will be forfeited with no bond buy-back given.  Entrance to the pool will not be permitted until the late fee is paid.  There are no exceptions to these policies to be fair to all members.  We are offering an incentive to pay on time.  ALL MEMBERS PAYING DUES BY APRIL 15 WILL RECEIVE 5 SINGLE DAY GUEST PASSES.  Guest Passes may have limitations again this year depending on potential Health Department restrictions due to Covid-19.  We will update all members as soon as we learn about any potential restrictions.
+Please click the link at the bottom of this letter to login to your account and pay your membership dues.  Members can pay online with a credit card or mail checks to Beechwood Swim Club, PO Box 17066, Ft. Mitchell, KY 41017.  All payments are due by April 15, 2021.  **ALL PAYMENTS POSTMARKED AFTER APRIL 15 NEED TO INCLUDE A $50 LATE FEE.  If you chose to be inactive in 2020 and have not yet paid the inactive fee, you will be required to pay your 2020 inactive fee along with your 2021 dues.  If the inactive fee is not received by June 15, your bond will be forfeited with no bond buy-back given**.  Entrance to the pool will not be permitted until the late fee is paid.  There are no exceptions to these policies to be fair to all members.  We are offering an incentive to pay on time.  **ALL MEMBERS PAYING DUES BY APRIL 15 WILL RECEIVE 5 SINGLE DAY GUEST PASSES**.  Guest Passes may have limitations again this year depending on potential Health Department restrictions due to Covid-19.  We will update all members as soon as we learn about any potential restrictions.
 
 **ALL MEMBERSHIPS PAYING DUES PLEASE USE THE LINK BELOW.**
 
