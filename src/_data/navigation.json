@@ -10,12 +10,12 @@
       "url": "/membership"
     },
     {
-      "text": "Contact",
-      "url": "/contact"
-    },
-    {
       "text": "Food",
       "url": "/food"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
     }
   ]
 }
