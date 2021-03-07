@@ -84,7 +84,7 @@ theme-toggle { display: none; }
 main header p { color: #fff !important; }
 main header h1 { color: #72c02c !important; }
 
-.post__body a:not([class]) { color: navy !important; background: none !important; text-decoration: underline; }
+.post__body a:not([class]) { color: navy !important; background: none !important; text-decoration: underline; padding: 0; }
 
 .site-foot { border-top: 5px solid #72c02c !important; }
 
