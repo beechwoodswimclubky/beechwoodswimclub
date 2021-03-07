@@ -45,8 +45,7 @@ If you have any questions, please send an email to [beechwoodswimclubky@gmail.co
 
 We are excited for the 2021 season and look forward to seeing you at the pool!
 
-Mailing Address:
-
+**Mailing Address:**
 Beechwood Swim Club, Inc.\
 PO BOX 17066\
 Fort Mitchell, KY 41017
