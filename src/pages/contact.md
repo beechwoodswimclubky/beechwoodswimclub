@@ -3,12 +3,13 @@ layout: layouts/contact.njk
 title: Contact
 permalink: /contact/index.html
 ---
-Business Hours
+## Business Hours
 
-**Monday-Friday:** 11am to 9pm
-**Saturday:** 11am to 9pm
-**Sunday:** 11am to 9pm
+* **Monday-Friday:** 11am to 9pm
+* **Saturday:** 11am to 9pm
+* **Sunday:** 11am to 9pm
 
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
+### Mailing Address
 
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+P.O. Box 17066
+Fort Mitchell, KY 41017
