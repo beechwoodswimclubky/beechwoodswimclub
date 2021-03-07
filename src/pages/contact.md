@@ -11,5 +11,6 @@ permalink: /contact/index.html
 
 ### Mailing Address
 
+Beechwood Swim Club, Inc.\
 P.O. Box 17066
 Fort Mitchell, KY 41017
