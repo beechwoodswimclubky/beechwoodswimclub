@@ -21,7 +21,6 @@ collections:
           - {label: "Post Feed Heading", name: "postsHeading", widget: "string", default: "Latest posts"}
           - {label: "Archive Link Text", name: "archiveButtonText", widget: "string", default: "See all posts"}
           - {label: "Social Image", name: "socialImage", widget: "image", required: false}
-          - {label: "Icon", name: "icon", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "generic_pages"
     label: "Generic Pages"
@@ -51,6 +50,7 @@ collections:
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
+      - {label: "Icon", name: "icon", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Globals"
     name: "globals"
