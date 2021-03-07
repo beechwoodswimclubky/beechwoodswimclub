@@ -87,3 +87,11 @@ main header h1 { color: #72c02c !important; }
 a { color: navy; }
 
 .site-foot { border-top: 5px solid #72c02c !important; }
+
+.nav:not(.light) .nav__item a[aria-current='page'] {
+    color: #72c02c;
+}
+
+.nav.light .nav__item a[aria-current='page'] {
+    color: #72c02c;
+}
