@@ -34,9 +34,9 @@ main {
 
 hr {
   display: block;
-  height: 1px;
+  height: 3px;
   max-width: 500px;
-  background: var(--color-stroke);
+  background: #72c02c !important;
   border: none;
   margin: get-size(900) auto;
 }
