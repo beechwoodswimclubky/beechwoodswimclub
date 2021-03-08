@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Employment
-permalink: /employment/index.html
+permalink: /contact/employment/index.html
 ---
 If you're interested in applying for a position, please email us at [beechwoodswimclubky@gmail.com](mailto:beechwoodswimclubky@gmail.com).
 
