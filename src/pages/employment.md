@@ -1,0 +1,15 @@
+---
+layout: layouts/page.njk
+title: Employment
+---
+If you're interested in applying for a position, please email us at [beechwoodswimclubky@gmail.com](mailto:beechwoodswimclubky@gmail.com).
+
+**We are hiring for the following positions:**
+
+* Concession stand
+* Concession stand cook
+* Front Desk
+* Lifeguard
+* Maintenance
+* Manager 
+* Assistant Manager
