@@ -19,8 +19,8 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
+    {{ site.membershipDues | markdownFilter | safe }}
     {% include "partials/components/post-list.njk" %}
-    Home Test
     {% include "partials/components/pagination.njk" %}
   </main>
 {% endblock %}
