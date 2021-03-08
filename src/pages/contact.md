@@ -5,9 +5,9 @@ permalink: /contact/index.html
 ---
 **Business Hours**
 
-* **Monday-Friday:** 11am to 9pm
-* **Saturday:** 11am to 9pm
-* **Sunday:** 11am to 9pm
+* **Monday-Friday:** 11 am to 9 pm
+* **Saturday:** 11 am to 9 pm
+* **Sunday:** 11 am to 9 pm
 
 **Mailing Address**
 
