@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
-    },
-    {
       "text": "Membership",
       "url": "/membership"
     },
@@ -16,6 +11,10 @@
     {
       "text": "Food",
       "url": "/food"
+    },
+    {
+      "text": "Employment",
+      "url": "/employment"
     },
     {
       "text": "Contact",
