@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
-title: Events
-permalink: /events/index.html
+title: Calendar
+permalink: /calendar/index.html
 ---
 ## Important dates for 2021 Pool Season
 
