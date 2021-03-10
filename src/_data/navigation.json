@@ -27,6 +27,10 @@
         {
           "text": "Phone - Info - Directions",
           "url": "/contact"
+        },
+        {
+          "text": "Employment",
+          "url": "/contact/employment"
         }
       ]
     },
