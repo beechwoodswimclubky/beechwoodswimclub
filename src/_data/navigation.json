@@ -22,7 +22,13 @@
     },
     {
       "text": "Contact",
-      "url": "/contact"
+      "url": "/contact",
+      "sub_items": [
+        {
+          "text": "Phone - Info - Directions",
+          "url": "/contact"
+        }
+      ]
     },
     {
       "text": "Employment",
