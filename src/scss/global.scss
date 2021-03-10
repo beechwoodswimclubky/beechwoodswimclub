@@ -193,10 +193,7 @@ nav.nav > ul.nav__list > li.nav__item { position: relative; }
 /* Sub-navigation */
 @media screen and (min-width: 789px) {
   .sub-menu {
-    display: inline-block;
     position: absolute;
-    left: -1em;
-    top: 100%;
     min-width: 250px;
     margin: 0;
     padding: 0;
