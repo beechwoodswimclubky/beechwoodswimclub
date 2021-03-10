@@ -225,8 +225,13 @@ footer {
       li:not(:last-child) {
         border-bottom: 1px solid #ccc;
       }
-      a {
-        display: block;
+      li {
+        a {
+          background: #72c02c;
+          color: #fff;
+          display: block;
+          text-decoration: none;
+        }
       }
     }
   }
