@@ -19,7 +19,7 @@
 				<li class="nav__item">
 					<a href="{{ item.url }}" {{ relAttribute | safe }}{{ currentAttribute | safe }} class="nav__item-hover" data-id="{{ item.text }}">{{ item.text }}</a>
 					{% if item.sub_items %}
-						<ul>
+						<ul class="sub-menu">
 							{% for subitem in item.sub_items %}
 								{% set relAttribute = '' %}
 								{% set currentAttribute = '' %}
