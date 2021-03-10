@@ -222,6 +222,9 @@ footer {
     .sub-menu {
       max-height: 100vh;
       overflow: visible;
+      li:not(:last-child) {
+        border-bottom: 1px solid #ccc;
+      }
       a {
         display: block;
       }
