@@ -187,3 +187,46 @@ footer {
 #nav-toggle.active span:after {
   transform: rotate(-45deg);
 }
+
+/* Sub-navigation */
+@media screen and (min-width: 789px) {
+  .sub-menu {
+    position: absolute;
+    min-width: 250px;
+    margin: 0;
+    padding: 0;
+    z-index: 100;
+    border: 0;
+    box-shadow: 0 0 30px rgb(0 0 0 / 10%);
+    background: transparent;
+    border-radius: 2px;
+    max-height: 0;
+    overflow: hidden;
+    margin-top: .5em;
+    li {
+      float: none;
+      width: 100%;
+      background: transparent;
+      a {
+        color: #003349;
+        font-weight: 400;
+        font-size: 1.8rem;
+        padding: 1rem;
+        background: #fff;
+        text-transform: none;
+        display: none;
+      }
+    }
+  }
+  
+  nav.nav > ul > li:hover {
+    .sub-menu {
+      max-height: 100vh;
+      overflow: visible;
+      a {
+        display: block;
+      }
+    }
+  }
+  
+}
