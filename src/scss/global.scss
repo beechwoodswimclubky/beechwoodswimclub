@@ -208,7 +208,9 @@ footer {
       width: 100%;
       background: transparent;
       list-style: none;
+      padding: 0;
       a {
+        padding: .8rem 0;
         background: #fff;
         text-transform: none;
         display: none;
