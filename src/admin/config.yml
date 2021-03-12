@@ -21,7 +21,7 @@ collections:
           - {label: "Post Feed Heading", name: "postsHeading", widget: "string", default: "Latest posts"}
           - {label: "Archive Link Text", name: "archiveButtonText", widget: "string", default: "See all posts"}
           - {label: "Social Image", name: "socialImage", widget: "image", required: false}      
-          - {label: "Hero Background Image", name: "heroImage", widget: "image", required: true}
+          - {label: "Hero Background Image", name: "heroImage", widget: "image", required: false}
           - {label: "Membership Dues", name: "membershipDues", widget: "markdown"}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "generic_pages"
