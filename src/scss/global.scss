@@ -115,7 +115,7 @@ footer {
 
 @media only screen and (max-width: 798px) {
   header {
-      padding: 1rem 0 !important; 
+      padding: 0.5rem 0 !important; 
   }
   
   .nav-mobile {
@@ -132,9 +132,16 @@ footer {
   }
   nav ul.nav__list {
     display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: rgba(256, 256, 256, 0.9);
+    padding: 0;
+    border: 1px solid #222;
   }
   nav ul li {
     float: none;
+    border-bottom: 1px solid #ccc;
   }
   nav ul li a {
     padding: 15px;
@@ -146,6 +153,10 @@ footer {
 
   .nav-dropdown {
     position: static;
+  }
+  
+  .nav__list>*+* {
+    margin-left: 0;
   }
 }
 @media screen and (min-width: 799px) {
