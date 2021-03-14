@@ -57,12 +57,12 @@
       $('.nav-dropdown').hide();
     });
     // Toggle open and close nav styles on click
-    $('#nav-toggle').click(function() {
+    $('.nav-mobile').click(function() {
       $('nav ul').slideToggle();
     });
     // Hamburger to X toggle
-    $('#nav-toggle').on('click', function() {
-      this.classList.toggle('active');
+    $('nav-mobile').on('click', function() {
+      document.getElementById("nav-toggle").classList.toggle('active');
     });
   }); // end DOM ready
 })(jQuery); // end jQuery
