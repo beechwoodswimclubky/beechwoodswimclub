@@ -105,7 +105,9 @@ footer {
 /* Mobile navigation */
 .nav-mobile {
   display: none;
-  float: right;
+  position: absolute;
+  top: 1em;
+  right: 1em;
   background: navy;
   height: 50px;
   width: 50px;
