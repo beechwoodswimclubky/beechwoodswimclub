@@ -132,16 +132,17 @@ footer {
 
   nav {
     width: 100%;
-    padding: 50px 0 15px;
-  }
-  nav ul.nav__list {
-    display: none;
+    padding: 0px 0 15px;
     position: absolute;
     left: 0;
     right: 0;
+    top: 3em;
+    z-index: 999;
+  }
+  nav ul.nav__list {
+    display: none;
     background: rgba(256, 256, 256, 0.95);
     border: 1px solid #222;
-    z-index: 999;
   }
   nav ul li {
     float: none;
