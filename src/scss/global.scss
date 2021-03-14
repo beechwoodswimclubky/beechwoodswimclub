@@ -242,11 +242,6 @@ footer {
     }
   }
   
-  ul.sub-menu {
-    background: #DCDCDC;
-    border: 1px solid #222;
-  }
-  
   nav.nav > ul > li:hover {
     .sub-menu {
       max-height: 100vh;
@@ -265,6 +260,11 @@ footer {
     }
   }
   
+}
+
+ul.sub-menu {
+  background: #DCDCDC;
+  border: 1px solid #222;
 }
 
 header.home-page {
