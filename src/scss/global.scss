@@ -242,6 +242,10 @@ footer {
     }
   }
   
+  ul.sub-menu {
+    background: #DCDCDC;
+  }
+  
   nav.nav > ul > li:hover {
     .sub-menu {
       max-height: 100vh;
