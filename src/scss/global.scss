@@ -111,7 +111,6 @@ footer {
   background: navy;
   height: 50px;
   width: 50px;
-  z-index: 999;
 }
 
 @media only screen and (max-width: 798px) {
@@ -142,6 +141,7 @@ footer {
     right: 0;
     background: rgba(256, 256, 256, 0.9);
     border: 1px solid #222;
+    z-index: 999;
   }
   nav ul li {
     float: none;
