@@ -84,7 +84,10 @@ main header h1 { color: #72c02c !important; }
 
 .post__body a:not([class]) { color: navy !important; background: none !important; text-decoration: underline; padding: 0; }
 
-.site-foot { border-top: 5px solid #72c02c !important; }
+.site-foot { 
+    border-top: 5px solid #72c02c !important; 
+    color: #222 !important;
+}
 
 .nav:not(.light) .nav__item a[aria-current='page'] {
     color: #72c02c;
