@@ -257,10 +257,12 @@ footer {
       }
       li {
         a {
-          background: #72c02c;
-          color: #fff;
           display: block;
           text-decoration: none;
+          &:hover {
+            background: #72c02c;
+            color: #fff;
+          }
         }
       }
     }
