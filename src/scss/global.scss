@@ -94,8 +94,6 @@ main header h1 { color: #72c02c !important; }
     color: #72c02c;
 }
 
-h3 { color: navy; }
-
 footer { 
   background: #F5F5F5 !important; 
 }
@@ -291,4 +289,8 @@ header.home-page:before {
 body {
     color: #222 !important;
     background-color: #fff !important;
+}
+
+h2, h3, h4, h5, h6 {
+    color: navy !important; 
 }
