@@ -45,7 +45,7 @@ class ThemeToggle extends HTMLElement {
           this.getCSSCustomProp(this.COLOR_MODE_KEY) === 'dark' ? 'light' : 'dark';
         break;
       case 'light':
-        currentSetting = 'light';
+        currentSetting = 'dark';
         break;
       case 'dark':
         currentSetting = 'light';
