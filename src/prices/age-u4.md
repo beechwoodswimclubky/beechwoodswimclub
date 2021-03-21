@@ -3,6 +3,7 @@ layout: layouts/price.njk
 title: Age U4
 date: 2021-03-21T17:14:50.117Z
 icon: FREE
+cost: FREE
 ---
 * Baby pool
 * Snack shop
