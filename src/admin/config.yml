@@ -69,7 +69,6 @@ collections:
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
-      - {label: "Icon", name: "icon", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Globals"
     name: "globals"
