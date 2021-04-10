@@ -312,6 +312,6 @@ h2, h3, h4, h5, h6, .site-head__site-name {
 }
 
 .greenBg {
-  color: navy;
-  background: #72c02c!important
+  color: var(--color-theme-highlight-block);
+  background: #72c02c!important;
 }
