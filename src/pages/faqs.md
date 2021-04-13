@@ -17,11 +17,11 @@ Bonds are available for purchase directly from the club or from bond-holders in 
 
 *What are the annual dues for a bond-holder?*
 
-The annual dues depend on the type of membership the bond-holder chooses for the season. A breakdown of the various memberships and annual dues associated with each can be found here.\*\** (Stephanie, make “here” a link to the dues breakdown I mentioned from 5 seasons if we choose to go that route?)
+The annual dues depend on the type of membership the bond-holder chooses for the season. A breakdown of the various memberships and annual dues associated with each can be found here.
 
 *Is bond ownership required for all memberships?*
 
-There are seasonal rental membership options available that do not require the member to be a bond-holder. Information about rental memberships can be found here. .\*\** (Stephanie, make “here” a link to the dues breakdown I mentioned from 5 seasons if we choose to go that route?)
+There are seasonal rental membership options available that do not require the member to be a bond-holder. Information about rental memberships can be found here.
 
 *What is the duration of the club’s season, and when must membership dues be paid for the season?*
 
