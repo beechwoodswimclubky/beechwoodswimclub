@@ -31,6 +31,10 @@
         {
           "text": "Employment",
           "url": "/contact/employment"
+        },
+        {
+          "text": "FAQs",
+          "url": "/contact/faqs/index.html"
         }
       ]
     }
