@@ -24,6 +24,7 @@ $clouds: #ecf0f1;
       /* Icon */
       &:hover {
         background: darken($midnight, 10%);
+        color: white;
       }
       &::after {
         content: "\276F";
