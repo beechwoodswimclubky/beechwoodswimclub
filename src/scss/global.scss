@@ -115,10 +115,6 @@ footer {
   width: 50px;
 }
 
-.sub-menu {
-  border: 1px solid #72c02c !important;
-}
-
 .sub-menu a[aria-current=page] {
     background: navy;
     color: white !important;
@@ -263,6 +259,7 @@ footer {
     .sub-menu {
       max-height: 100vh;
       overflow: visible;
+      border: 1px solid #72c02c;
       li:not(:last-child) {
         border-bottom: 1px solid #ccc;
       }
