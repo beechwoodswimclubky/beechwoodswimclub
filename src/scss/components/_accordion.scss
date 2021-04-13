@@ -60,6 +60,7 @@ $clouds: #ecf0f1;
     input:checked {
       + .tab-label {
         background: darken($midnight, 10%);
+        color: white;
         &::after {
           transform: rotate(90deg);
         }
