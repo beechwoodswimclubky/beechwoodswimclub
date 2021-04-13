@@ -3,6 +3,8 @@ layout: layouts/page.njk
 title: FAQs
 permalink: /faqs/index.html
 ---
+*Who owns Beechwood Swim Club?*
+
 Beechwood Swim Club is a non-profit corporation owned by its members through the issuance of bonds. The general operations of the club are overseen by a board of directors consisting of member volunteers elected by bond-holders, and the daily functions are overseen by management employed by the board.
 
 *What does it mean to be a bond-holder?*
