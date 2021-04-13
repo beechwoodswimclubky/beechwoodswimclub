@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: FAQs
-permalink: /faqs/index.html
+permalink: /contact/faqs/index.html
 ---
 <div class="tabs">
 <div class="tab">
