@@ -45,19 +45,13 @@ Yes, memberships come with guest passes. After guest passes are used, guests can
 
 We are a member-owned swim club and, thus, the satisfaction of our members is extremely important. For daily issues, management is available to assist you. The head manager for the 2021 season is Nick Hovan, who can be contacted through the front office. For broader issues or suggestions regarding swim club policy and operations, the board of directors is here to listen and provide answers. For this season, the board of directors is:
 
-Josh Colvin – President
-
-Jim Brannen – Vice President
-
-Stephanie Bogenschutz – Treasurer
-
-Barb Erardi – Secretary
-
-Gene Burchell – Director
-
-Kyle Burns – Director
-
-Kelley Young – Director
+* Josh Colvin – President
+* Jim Brannen – Vice President
+* Stephanie Bogenschutz – Treasurer
+* Barb Erardi – Secretary
+* Gene Burchell – Director
+* Kyle Burns – Director
+* Kelley Young – Director
 
 The most convenient way to bring any issues to the board of directors is to send an email to [beechwoodswimclubfeedback@gmail.com](mailto:beechwoodswimclubfeedback@gmail.com).  The board will monitor this email address and will review and discuss all issues raised.  The board will always get back to you!
 
