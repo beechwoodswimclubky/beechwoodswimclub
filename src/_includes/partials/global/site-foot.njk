@@ -176,7 +176,10 @@ function Clock(countdown,callback) {
 
 var deadline = 'May 29 2021 00:00:00 EST';
     // new Date(Date.parse(new Date()) + 36 * 24 * 60 * 60 * 1000);
-var c = new Clock(deadline, function(){ console.log('countdown complete') });
+var c = new Clock(deadline, function(){ 
+    document.getElementById("countdown-timer").classList.add("hide"); 
+});
+
 document.getElementById("countdown-timer").appendChild(c.el);
 
   //var clock = new Clock();
