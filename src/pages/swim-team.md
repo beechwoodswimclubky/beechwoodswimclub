@@ -13,6 +13,9 @@ The main goal of the Beechwood Barracudas is to provide a fun environment where 
 
 For team information, registration, and other important information, including practice and meet schedules, please go to the following link: [https://www.teamunify.com/Home.jsp?*tabid*=0&team=recnkbscky](https://www.teamunify.com/Home.jsp?_tabid_=0&team=recnkbscky)
 
-New Swim team shirts shorts and cool visors. [Get it here!](https://emsports.tuosystems.com/stores/beechwoodsd)
+[Beechwood Team Unify Page](https://www.teamunify.com/Home.jsp?_tabid_=0&team=recnkbscky)
+
+Swim and Dive Schedule Page
+*Information to come*
 
 ![trophy case](/images/swimtrophy.jpg)
