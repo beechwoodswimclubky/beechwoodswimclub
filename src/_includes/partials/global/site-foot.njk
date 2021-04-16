@@ -174,7 +174,7 @@ function Clock(countdown,callback) {
   setTimeout(updateClock,500);
 }
 
-var deadline = 'April 16 2021 11:00:00 EST';
+var deadline = 'May 29 2021 00:00:00 EST';
     // new Date(Date.parse(new Date()) + 36 * 24 * 60 * 60 * 1000);
 var c = new Clock(deadline, function(){ console.log('countdown complete') });
 document.getElementById("countdown-timer").appendChild(c.el);
