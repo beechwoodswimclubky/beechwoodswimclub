@@ -25,6 +25,10 @@ body {
   flex-direction: column;
 }
 
+.ta-center {
+  text-align: center; 
+}
+
 main {
   flex: 1 0 auto;
   &:focus {
