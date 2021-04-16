@@ -16,6 +16,7 @@ For team information, registration, and other important information, including p
 [Beechwood Team Unify Page](https://www.teamunify.com/Home.jsp?_tabid_=0&team=recnkbscky)
 
 Swim and Dive Schedule Page
+
 *Information to come*
 
 ![trophy case](/images/swimtrophy.jpg)
