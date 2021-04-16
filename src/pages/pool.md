@@ -7,7 +7,44 @@ Beechwood Swim Club offers a safe and relaxing place for families to unwind, enj
 
 ## Pricing Range
 
-<div class="box-flex align-start prices">
+<div class="columns">
+  <ul class="price">
+    <li class="header">Age U4</li>
+    <li class="grey">FREE</li>
+    <li>Baby pool</li>
+    <li>Snack Shop</li>
+    <li>Large pool</li>
+    <li>Diving boards</li>
+    <li>Sun deck</li>
+    <li class="grey">Enjoy the Sun!</li>
+  </ul>
+</div>
+<div class="columns">
+  <ul class="price">
+    <li class="header">Ages 5-12</li>
+    <li class="grey">$5</li>
+    <li>Baby pool</li>
+    <li>Snack Shop</li>
+    <li>Large pool</li>
+    <li>Diving boards</li>
+    <li>Sun deck</li>
+    <li class="grey">Enjoy the Sun!</li>
+  </ul>
+</div>
+<div class="columns">
+  <ul class="price">
+    <li class="header">Ages 12 and Over</li>
+    <li class="grey">$7</li>
+    <li>Baby pool</li>
+    <li>Snack Shop</li>
+    <li>Large pool</li>
+    <li>Diving boards</li>
+    <li>Sun deck</li>
+    <li class="grey">Enjoy the Sun!</li>
+  </ul>
+</div>
+
+<div class="box-flex align-start prices hide">
 <div>
 Age U-4
 </div>
