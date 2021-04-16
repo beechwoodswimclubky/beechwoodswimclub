@@ -10,6 +10,8 @@ postsHeading: Pool Services
 archiveButtonText: See all posts
 socialImage: ""
 membershipDues: >-
+  ## Days until Beechwood Swim Club opens!
+
   <div class="countdown-container"><p id="countdown-timer"></p></div>
 
 
