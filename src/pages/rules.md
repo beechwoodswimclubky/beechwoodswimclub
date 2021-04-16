@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Rules
-permalink: /rules/index.html
+permalink: /pool/rules/index.html
 ---
 The Board of Directors first priority is to ensure that Beechwood Swim Club is a safety first facility.  The Board expects that all members will follow the rules below, which will be enforced by all swim club employees.
 
