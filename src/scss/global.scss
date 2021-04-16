@@ -41,6 +41,10 @@ hr {
   margin: get-size(900) auto;
 }
 
+.hide {
+  display: none; 
+}
+
 // For when metric attributes are added to img elements
 img {
   height: auto;
