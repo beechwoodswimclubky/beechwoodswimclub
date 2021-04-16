@@ -6,7 +6,13 @@
     },
     {
       "text": "Pool",
-      "url": "/pool"
+      "url": "/pool",
+      "sub_items": [
+        {
+          "text": "Rules",
+          "url": "/pool/rules"
+        }
+      ]
     },
     {
       "text": "Food",
