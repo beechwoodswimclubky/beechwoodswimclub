@@ -5,4 +5,4 @@ permalink: /events/index.html
 ---
 ## Important dates for 2021 Pool Season
 
-In the process of adding dates to calendar
+Event information TBD, should have everything locked down by mid-April.
