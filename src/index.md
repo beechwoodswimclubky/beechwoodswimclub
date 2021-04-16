@@ -10,10 +10,12 @@ postsHeading: Pool Services
 archiveButtonText: See all posts
 socialImage: ""
 membershipDues: >-
+  <div class="greenBg">
+
   <h2 class="ta-center">Countdown to BSC Opening!</h2>
 
 
-  <div class="countdown-container"><p id="countdown-timer"></p></div>
+  <div class="countdown-container"><p id="countdown-timer"></p></div></div>
 
 
   ## Membership Dues
