@@ -12,10 +12,10 @@ socialImage: ""
 membershipDues: >-
   <div class="greenBg">
 
-  <h2 class="ta-center">Countdown to BSC Opening!</h2>
+  <h2 class="ta-center">Countdown to BSC Opening!</h2></div>
 
 
-  <div class="countdown-container"><p id="countdown-timer"></p></div></div>
+  <div class="countdown-container"><p id="countdown-timer"></p></div>
 
 
   ## Membership Dues
