@@ -10,6 +10,9 @@ postsHeading: Pool Services
 archiveButtonText: See all posts
 socialImage: ""
 membershipDues: >-
+  <div class="countdown-container"><p id="countdown-timer"></p></div>
+
+
   ## Membership Dues
 
 
