@@ -27,6 +27,17 @@
 	line-height: 0.95;
 }
 
+@media (max-width: 768px) {
+	.card {
+		font-size: 10vw;
+		line-height: 0.95;
+	}
+	
+	.flip-clock__slot {
+		font-size: 4vw;	
+	}
+}
+	
 .card__top,
 .card__bottom,
 .card__back::before,
