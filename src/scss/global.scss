@@ -103,7 +103,13 @@ theme-toggle { display: none; }
     .post-list__items>* {
         width: 50%;
         margin-top: 0!important;
-        padding: 0 .25em;
+        padding: .25em;
+    }
+}
+
+@media (max-width: 767px) {
+    .post-list__items>* {
+        width: 100%;
     }
 }
 
