@@ -300,7 +300,7 @@ header.home-page .inner-wrapper {
   position: relative;
 }
 
-header.home-page:before {
+header.home-page .inner-wrapper:before {
     content: "";
     position: absolute;
     background: navy;
