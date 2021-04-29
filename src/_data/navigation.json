@@ -2,7 +2,13 @@
   "items": [
     {
       "text": "Membership",
-      "url": "/membership"
+      "url": "/membership",
+      "sub_items": [
+        {
+          "url": "/membership/faqs",
+          "text": "Membership FAQs"
+        }
+      ]
     },
     {
       "text": "Pool",
@@ -37,10 +43,6 @@
         {
           "text": "Employment",
           "url": "/contact/employment"
-        },
-        {
-          "text": "FAQs",
-          "url": "/contact/faqs"
         }
       ]
     }
