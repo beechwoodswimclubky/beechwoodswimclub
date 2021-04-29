@@ -7,6 +7,8 @@ Beechwood Swim Club offers a safe and relaxing place for families to unwind, enj
 
 ![Beechwood Swim Club pool](/images/pool-pic-1.jpg)
 
+<div><hr></div>
+
 ## Pricing Range
 
 <div class="columns">
@@ -58,6 +60,7 @@ Age 12+
 </div>
 </div>
 
+<div><hr></div>
 ## Pool Amenities
 
 As a member of Beechwood Swim Club, the following amenities are available for you to enjoy:
