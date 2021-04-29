@@ -7,6 +7,10 @@
         {
           "url": "/membership/faqs",
           "text": "Membership FAQs"
+        },
+        {
+          "text": "Club Amenities",
+          "url": "/membership/club-amenities"
         }
       ]
     },
