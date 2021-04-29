@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
-title: Amenities
-permalink: /membership/amenities.html
+title: Club Amenities
+permalink: /membership/club-amenities.html
 ---
 ## Pool Amenities
 
