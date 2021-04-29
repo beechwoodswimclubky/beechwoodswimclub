@@ -61,7 +61,7 @@ Age 12+
 </div>
 
 <div><hr></div>
-## Pool Amenities
+<h2>Pool Amenities</h2>
 
 As a member of Beechwood Swim Club, the following amenities are available for you to enjoy:
 
