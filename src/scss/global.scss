@@ -19,6 +19,10 @@ body {
   height: 100%;
 }
 
+.mobile-only {
+  display: none;
+}
+
 body {
   scroll-behavior: smooth;
   display: flex;
@@ -118,6 +122,10 @@ theme-toggle { display: none; }
   
     hr {
         margin: 1.05rem auto;
+    }
+  
+    .mobile-only {
+        display: unset;
     }
 }
 
