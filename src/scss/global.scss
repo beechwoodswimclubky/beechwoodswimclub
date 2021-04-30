@@ -370,11 +370,15 @@ h2, h3, h4, h5, h6, .site-head__site-name {
 .greenBg {
   background: #42a642 !important;
   padding: 5px 0;
-  a {
-    background: var(--color-theme-highlight);
-    color: white;
-    text-decoration: none;
-    padding: 5px;
+  .wrapper {
+    display: flex;
+    justify-content: space-between; 
+    a {
+      background: var(--color-theme-highlight);
+      color: white;
+      text-decoration: none;
+      padding: 5px;
+    }
   }
 }
 
