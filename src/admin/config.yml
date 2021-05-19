@@ -39,19 +39,6 @@ collections:
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
       - {label: "Hero Image", name: "heroImage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "menuitems"
-    label: "Menu Items"
-    folder: "src/menuitems"
-    slug: "{{slug}}"
-    preview_path: "menuitems/{{slug}}"
-    create: true
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/menuitem.njk"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Cost", name: "cost", widget: "string"}
-      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "City", name: "airport-code", widget: "select", options: ["snacks", "sweet bites", "burgers", "wraps", "quesadillas", "salads", "pizzas", "beechwood bites", "kids meal", "drinks"]
   - name: "posts"
     label: "Posts"
     folder: "src/posts"
