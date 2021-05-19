@@ -39,6 +39,21 @@ collections:
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
       - {label: "Hero Image", name: "heroImage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "menuitems"
+    label: "Menu Items"
+    folder: "src/menuitems"
+    slug: "{{slug}}"
+    preview_path: "menuitems/{{slug}}"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/menuitem.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Cost", name: "cost", widget: "string"}
+      - {label: "Social Image", name: "socialImage", widget: "image", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
+      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "posts"
     label: "Posts"
     folder: "src/posts"
