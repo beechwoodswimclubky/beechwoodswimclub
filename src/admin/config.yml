@@ -51,6 +51,7 @@ collections:
       - {label: "Cost", name: "cost", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "City", name: "airport-code", widget: "select", options: ["snacks", "sweet bites", "burgers", "wraps", "quesadillas", "salads", "pizzas", "beechwood bites", "kids meal", "drinks"]
   - name: "posts"
     label: "Posts"
     folder: "src/posts"
