@@ -6,11 +6,7 @@
 }
 
 body {
-    font-family: "Open Sans";
-    text-transform: uppercase;
-    font-size: 12px;
-    letter-spacing: 1.1px;
-    color: var(--body);
+    
 }
 
 p {
@@ -19,6 +15,12 @@ p {
 
 .menu {
     margin-bottom: 2em;
+    
+    font-family: "Open Sans";
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1.1px;
+    color: var(--body);
 }
 
 .small-ampersand {
