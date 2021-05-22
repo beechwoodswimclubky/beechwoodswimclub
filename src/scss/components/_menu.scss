@@ -210,7 +210,7 @@ p {
 .pizzas-grid {
     display: grid;
     grid-gap: 12px;
-    text-align: right;
+    text-align: center;
     grid-template-columns: 1fr 1fr 1fr;
     font-family: "Josefin Sans";
     color: var(--gray);
@@ -265,7 +265,7 @@ p {
 
 .pizzas-grid p:nth-child(-n + 3) {
     border-bottom: 3px solid var(--blue);
-    place-self: end;
+    place-self: center;
 }
 
 .drinks-grid p:nth-child(5n + 6) {
