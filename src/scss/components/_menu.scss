@@ -291,6 +291,10 @@ p {
     place-self: end;
 }
 
+.pizzas-grid p:first-child
+    place-self: center;
+}
+
 .menu-items {
     display: grid;
 }
