@@ -47,7 +47,7 @@ p {
         white-space: nowrap;
     }
     span:last-of-type {
-        font-family: "Josefin Sans";
+        /*font-family: "Josefin Sans";*/
         text-transform: uppercase;
         color: var(--gray);
         letter-spacing: 2px;
@@ -120,7 +120,7 @@ p {
 
 .smoked-fish h3 {
     font-size: 16px;
-    font-family: "josefin sans";
+    /*font-family: "josefin sans";*/
     text-transform: uppercase;
     text-align: center;
     // letter-spacing: 0.25em;
@@ -140,7 +140,7 @@ p {
     border-bottom: 1px dotted var(--body);
     h3,
     .price {
-        font-family: "Josefin Sans";
+        font-family: "Open Sans";
         text-transform: uppercase;
         font-size: 13px;
         letter-spacing: 1px;
@@ -190,7 +190,7 @@ p {
     grid-gap: 12px;
     text-align: right;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    font-family: "Josefin Sans";
+    font-family: "Open Sans";
     color: var(--gray);
     align-items: center;
     max-width: 100%;
@@ -215,7 +215,7 @@ p {
     grid-gap: 12px;
     text-align: center;
     grid-template-columns: 1fr 1fr 1fr;
-    font-family: "Josefin Sans";
+    font-family: "Open Sans";
     color: var(--gray);
     align-items: center;
     max-width: 100%;
@@ -241,7 +241,7 @@ p {
     grid-gap: 12px;
     text-align: right;
     grid-template-columns: 1fr 1fr 1fr;
-    font-family: "Josefin Sans";
+    font-family: "Open Sans";
     color: var(--gray);
     align-items: center;
     max-width: 300px;
