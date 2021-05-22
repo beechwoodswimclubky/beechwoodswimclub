@@ -291,8 +291,8 @@ p {
     place-self: end;
 }
 
-.pizzas-grid p:first-child
-    place-self: center;
+.pizzas-grid p:first-child {
+    place-self: center !important;
 }
 
 .menu-items {
