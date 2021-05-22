@@ -139,6 +139,9 @@ p {
         letter-spacing: 1px;
         color: var(--gray);
         border: none !important;
+        &:hover {
+            box-shadow: none !important;
+        }
     }
     .price {
         line-height: 0;
