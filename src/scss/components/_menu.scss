@@ -245,7 +245,7 @@ p {
     color: var(--gray);
     align-items: center;
     max-width: 300px;
-    margin: auto;
+    margin: auto auto 1em;
 
     .dot {
         position: relative;
