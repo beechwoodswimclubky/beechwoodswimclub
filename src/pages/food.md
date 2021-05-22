@@ -5,6 +5,4 @@ permalink: /food/index.html
 ---
 ## Snack Shop Menu
 
-Updated Menu Pending
-
-![Concession stand](/images/consession-stand.jpg "Concession stand")
+[View Beechwood Swim Club Concession Menu](https://beechwood-swim-club.netlify.app/beechwood-swim-club-menu.pdf)
