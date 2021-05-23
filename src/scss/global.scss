@@ -159,7 +159,12 @@ theme-toggle { display: none; }
 main header p { color: #fff !important; }
 main header h1 { color: #42a642 !important; }
 
-.post__body a:not([class]) { color: \y !important; background: none !important; text-decoration: underline; padding: 0; }
+.post__body a:not([class]) { 
+    color: navyy !important; 
+    background: none !important; 
+    text-decoration: underline; 
+    padding: 0;
+}
 
 .site-foot { 
     border-top: 5px solid #42a642 !important; 
