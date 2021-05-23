@@ -12,7 +12,9 @@ table.schedule {
     }
 
     tbody {
-        background-color: #e4f0f5;
+        tr:nth-child(odd) {
+            background-color: #ccc;
+        }
     }
   
     td,
