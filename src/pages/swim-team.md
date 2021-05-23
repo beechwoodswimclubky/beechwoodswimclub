@@ -65,7 +65,7 @@ There are 6 regular Swim & Dive Meets beginning June 8/10th.  In late July there
 
 <ins>**2020 Meet Schedule**</ins>
 
-Diving
+**Diving**
 
 <table class="schedule">
     <thead>
@@ -101,6 +101,47 @@ Diving
         </tr>
        <tr>
             <th scope="row">20-July</th>
+            <td>BYE</td>
+        </tr>
+    </tbody>
+</table>
+
+**Swimming**
+
+<table class="schedule">
+    <thead>
+        <tr>
+            <th scope="col">Date</th>
+            <th scope="col">Meet</th>
+        </tr>
+    <thead>
+    <tbody>
+        <tr>
+            <th scope="row">10-June</th>
+            <td>vs. Oakbrook</td>
+        </tr>
+        <tr>
+            <th scope="row">17-June</th>
+            <td>@ Five Seasons</td>
+        </tr>
+        <tr>
+            <th scope="row">24-June</th>
+            <td>vs. Bluegrass</td>
+        </tr>
+        <tr>
+            <th scope="row">1-July</th>
+            <td>@ Fort Thomas</td>
+        </tr>
+       <tr>
+            <th scope="row">8-July</th>
+            <td>@ Taylor Mill</td>
+        </tr>
+       <tr>
+            <th scope="row">15-July</th>
+            <td>vs. Florence</td>
+        </tr>
+       <tr>
+            <th scope="row">22-July</th>
             <td>BYE</td>
         </tr>
     </tbody>
