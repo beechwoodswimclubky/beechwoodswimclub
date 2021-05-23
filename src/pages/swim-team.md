@@ -15,7 +15,7 @@ For team information, registration, and other important information, including p
 
 [Beechwood Team Unify Page](https://www.teamunify.com/Home.jsp?_tabid_=0&team=recnkbscky)
 
-Swim and Dive Schedule Page
+<hr>
 
 ## **Beechwood Barracuda Swim and Dive Team 2021**
 
@@ -47,9 +47,9 @@ If they are not able to do this unassisted, your child can be a member of the Li
 
 ***TEAM PRACTICE SCHEDULE:***
 
-**Diving:** Monday – Thursday for 1 hour between 8:00am – 10:00am beginning Monday, 1-June.  Work with the coach to set your practice time.  This is flexible and can be worked around your swim practice schedule as well.
+**Diving:** Monday – Thursday for 1 hour between 8:00 am – 10:00 am beginning Monday, 1-June.  Work with the coach to set your practice time.  This is flexible and can be worked around your swim practice schedule as well.
 
-**Swimming:** Monday - Thursday mornings between the hours of 8:00-10:00am for approximately 1 hour each day. Practices begin Monday, 1-June.  The 8 & under and 9-10 age groups will practice from 8:00-9:00.  The 11-12, 13-14, and 15-18 age groups will practice from 9:00-10:00.
+**Swimming:** Monday - Thursday mornings between the hours of 8:00-10:00 am for approximately 1 hour each day. Practices begin Monday, 1-June.  The 8 & under and 9-10 age groups will practice from 8:00-9:00.  The 11-12, 13-14, and 15-18 age groups will practice from 9:00-10:00.
 
 Little Cudas begin practice on Tuesday, June 8th. They practice Tuesday – Thursday for 6 weeks. 
 
@@ -146,5 +146,41 @@ There are 6 regular Swim & Dive Meets beginning June 8/10th.  In late July there
         </tr>
     </tbody>
 </table>
+
+<ins>**All-Star & Championship Meets**</ins>
+
+All Star Diving – Wednesday, July 21 @ Oakbrook
+
+All Star Swimming – Monday July 26 @ Five Seasons (TBD)
+
+BOYS Diving Champ Meet – Tuesday, July 27 @ Beechwood
+
+GIRLS Diving Champ Meet – Wednesday, July 28 @ Beechwood
+
+Championship Swim Meet Prelims – Thursday, July 29 @ Taylor Mill
+
+Championship Swimming Finals – Friday, July 30 @ Taylor Mill
+
+<ins>**Swim/Diving Team Banquet @ Beechwood Swim Club**</ins>
+
+**Banquet for the entire team including the Little Cudas – Likely Sunday, 25-July (TBD)**
+
+*TEAM REGISTRATION:*
+
+Please register your children online beginning May 1st.  Registration fees will be posted by the end of April on the Team Unify site.  Registration fees will be paid by credit card through Team Unify. 
+
+The Team Unify link is:
+
+<https://www.teamunify.com/Home.jsp?team=recnkbscky>
+
+*OTHER TEAM NEWS*
+
+New Team Suit this year!  You will be able to buy this through Swimville USA’s team portal online.  Due to COVID, Swimville will not be able to come to the pool in person. The Suit portal is open now and is offering free shipping until May 22nd.  You can also purchase in-store at the Ft. Thomas location.  Please know that team suits are not required to participate on the team.
+
+<https://www.swimvilleusa.com/register.asp?cg=314>
+
+If you have any issues with the Swimville website, please contact Heather Wooley at [heatherw@swimvilleusa.com](mailto:heatherw@swimvilleusa.com)
+
+If you have any questions, please contact Josh Colvin at [josh_colvin@ymail.com](mailto:josh_colvin@ymail.com).  GO CUDAS!!!!
 
 ![trophy case](/images/swimtrophy.jpg)
