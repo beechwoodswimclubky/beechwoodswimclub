@@ -7,5 +7,3 @@ icon: fa fa-team
 **Updates Pending**
 
 All swim team info is on the swim team website.
-
-[View Info](https://www.beechwoodswimclub.org/swim-team)
