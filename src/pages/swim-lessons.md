@@ -5,8 +5,9 @@ permalink: /pool/swim-lessons/index.html
 ---
 Beechwood Swim Club offers free swim lessons to all members at no charge.  Lessons range from getting infants/children comfortable with the water to learning how to swim all four competitive strokes.
 
-
 Swim Lessons are offered in two sessions.  Sign-up information will be sent to all members.
 
-Session 1 – TBD
-Session 2 – TBD
+Swim Lessons will take place for a two-week session in June and a two-week session in July.  Each session will have 4 classes offered at 9:30, 10:00, and 10:30.  Class size will be limited to 10 students. 
+
+* **Session 1:** June 21 through July 1, Monday through Thursday
+* **Session 2:** July 12 through July 22, Monday through Thursday
