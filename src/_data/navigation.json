@@ -19,6 +19,10 @@
       "url": "/pool",
       "sub_items": [
         {
+          "text": "Swim Lessons",
+          "url": "/pool/swim-lessons"
+        },
+        {
           "text": "Rules",
           "url": "/pool/rules"
         }
