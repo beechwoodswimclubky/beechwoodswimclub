@@ -11,18 +11,18 @@ We have a couple of items to bring to your attention prior to Opening Weekend.
 
 Given that COVID protocols are relaxing and that we rarely saw our reservations full last year, we decided that reservations will not be necessary for the 2021 summer season.
 
-We have two new managers this season!  Nick Hovan is the Head Manager and Jennifer Miller is the Assistant Manager.  They have done an amazing job getting the pool ready for the members and staff.  Please stop by and say hi when you are at the pool.
+We have two new managers this season!  Nick Hovan is the Head Manager and Jennifer Miller is the Assistant Manager. They have done an amazing job getting the pool ready for the members and staff.  Please stop by and say hi when you are at the pool.
 
 The concession stand has a delicious new menu, including pizzas that you can buy by the slice or the whole pie.  There are kids meals, taco salads, and many other tasty offerings.  For Opening Weekend, a special menu item is the Black and Bleu Burger! 
 
 Swim Lessons will take place for a two-week session in June and a two-week session in July.  Each session will have 4 classes offered at 9:30, 10:00, and 10:30.  Class size will be limited to 10 students. 
 
-* Session 1: June 21 through July 1, Monday through Thursday
-* Session 2: July 12 through July 22, Monday through Thursday
+* **Session 1:** June 21 through July 1, Monday through Thursday
+* **Session 2:** July 12 through July 22, Monday through Thursday
 
 We are also offering one evening session with classes at 6:00 and 6:30.  Class size will be limited to 10 students. 
 
-* Evening Session: June 20 through July 1, Sunday through Wednesday
+* **Evening Session:** June 20 through July 1, Sunday through Wednesday
 * Additional information will be posted on the bulletin board by June 13.
 
 We will be offering an Aqua Zumba class on Wednesday evenings at 7pm led by experienced instructor, Talia Zoll.  There will be an introductory class on June 16.  Then there will be weekly classes starting July 7 and running through August 18.  Classes will be 45 minutes long.
