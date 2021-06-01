@@ -38,6 +38,8 @@ Beechwood’s Treasurer, Stephanie Bogenschutz, will be at the pool on Sunday af
 
 We hope everyone is as excited as we are to get back to normal and enjoy our summer days at the Swim Club.  See you this weekend!
 
+[Click here](https://www.esoftplanner.com/v3/planner/login.php?access=0dG81LSVxNmo65bGwm5zuJqFpA==) to login into eSoft.
+
 Welcome to the 2021 Beechwood Swim Club season!  Beechwood Swim Club is a non-profit corporation operated by a group of elected volunteers.  Our main goal is to maintain a safe, family oriented recreational facility that will continue to foster memories, friendships, and legacies for future generations.  The 2021 Beechwood Swim Club Board of Directors are:
 
 * Josh Colvin – President
