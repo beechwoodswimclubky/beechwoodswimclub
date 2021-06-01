@@ -16,7 +16,7 @@ permalink: /membership/faqs/index.html
 
 <div class="tab">
 <input type="radio" id="faq3" name="rd"><label class="tab-label" for="faq3">How does someone become a bond-holder?</label>
-<div class="tab-content">Bonds are available for purchase directly from the club or from bond-holders in private sales. Information about either type of purchase can be obtained by sending an inquiry to [beechwoodswimclubky@gmail.com](mailto:beechwoodswimclubky@gmail.com)</div>
+<div class="tab-content">Bonds are available for purchase directly from the club or from bond-holders in private sales. Information about either type of purchase can be obtained by sending an inquiry to \[beechwoodswimclubky@gmail.com](mailto:beechwoodswimclubky@gmail.com)</div>
 </div>
 
 <div class="tab">
@@ -31,18 +31,14 @@ permalink: /membership/faqs/index.html
 
 <div class="tab">
 <input type="radio" id="faq6" name="rd"><label class="tab-label" for="faq6">What is the duration of the club’s season, and when must membership dues be paid for the season?</label>
-<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. In 2020, the COVID-19 pandemic and accompanying orders from our state government resulted in an abbreviated season (see next FAQ regarding COVID-19). Membership dues for the 2021 season are due by April 15th. A $50 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid with credit card in our member portal by logging in here \*\**. Dues can be paid by mailing a check to:
+<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2021 season are due by April 15th. A $50 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid with credit card in our member portal by logging in here \\*\\**. Dues can be paid by mailing a check to:
 
 Beechwood Swim Club\
 PO Box 17066\
 Fort Mitchell, Kentucky 41017
 
 Checks for membership dues that are mailed must be postmarked by April 15th to avoid the $50 late fee. Checks postmarked after April 15th must include the aforementioned fee for the member to be in good standing on opening weekend.</div>
-</div>
 
-<div class="tab">
-<input type="radio" id="faq7" name="rd"><label class="tab-label" for="faq7">Will COVID-19 affect the 2021 season?</label>
-<div class="tab-content">While the COVID-19 pandemic obviously presents unexpected challenges, we believe that we have put in the work to provide the members as “normal” of a season as possible. In 2020, the board of directors worked extremely hard to develop and implement protocols to allow the club to open midway through the summer. These ranged from sanitization measures to capacity restrictions and other new policies necessary to comply with state and local regulations. Due to the ongoing nature of the COVID-19 pandemic, many of those 2020 changes must remain in place. However, due to those measures being in place from last season, we currently anticipate a full season from Memorial Day Weekend through Labor Day weekend, which is the board’s primary goal for our members: a full and safe summer.</div>
 </div>
 
 <div class="tab">
@@ -63,10 +59,11 @@ Checks for membership dues that are mailed must be postmarked by April 15th to a
 * Kelley Young – Director
 
 The most convenient way to bring any issues to the board of directors is to send an email to [beechwoodswimclubfeedback@gmail.com](mailto:beechwoodswimclubfeedback@gmail.com).  The board will monitor this email address and will review and discuss all issues raised.  The board will always get back to you!</div>
+
 </div>
 
 <div class="tab">
 <input type="radio" id="faq10" name="rd"><label class="tab-label" for="faq10">How do I reserve time slots during the 2021 season?</label>
-<div class="tab-content">At this time, the board does not know if weekend reservations will be required for 2021.  If necessary, the pool will implement the same reservation system that was used in 2020.  The link to the weekend reservation site is \*\*\*.  Similar to last year, the reservation window for the following weekend will open each Monday at midnight. Please see the step-by-step instructions in the following link.</div>
+<div class="tab-content">At this time, the board does not know if weekend reservations will be required for 2021.  If necessary, the pool will implement the same reservation system that was used in 2020.  The link to the weekend reservation site is \\*\\*\*.  Similar to last year, the reservation window for the following weekend will open each Monday at midnight. Please see the step-by-step instructions in the following link.</div>
 </div>
 </div>
