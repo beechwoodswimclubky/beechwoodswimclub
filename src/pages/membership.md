@@ -5,7 +5,7 @@ permalink: /membership/index.html
 ---
 ## Hello Members!
 
-We are excited for Opening Day this Saturday, May 29th.  The pool looks amazing and are excited to see everyone enjoying it starting this weekend. 
+We are excited for Opening Day this Saturday, May 29th.  The pool looks amazing and we are excited to see everyone enjoying it starting this weekend. 
 
 We have a couple of items to bring to your attention prior to Opening Weekend.
 
@@ -25,14 +25,14 @@ We are also offering one evening session with classes at 6:00 and 6:30.  Class s
 * **Evening Session:** June 20 through July 1, Sunday through Wednesday
 * Additional information will be posted on the bulletin board by June 13.
 
-We will be offering an Aqua Zumba class on Wednesday evenings at 7pm led by experienced instructor, Talia Zoll.  There will be an introductory class on June 16.  Then there will be weekly classes starting July 7 and running through August 18.  Classes will be 45 minutes long.
+We will be offering an Aqua Zumba class on Wednesday evenings at 7 pm led by experienced instructor, Talia Zoll.  There will be an introductory class on June 16.  Then there will be weekly classes starting July 7 and running through August 18.  Classes will be 45 minutes long.
 
 Confirmed Events at the Swim Pool:
 
 * **DJ at the Pool:** Sunday, May 30.  Come sit by the pool and listen to DJ Fred spin some great tunes.  It is fun for kids and adults alike!  DJ Fred will be at the pool from 1:00-5:00.
-* **Movie Nights:** Saturday, June 19 and Saturday, July 10.  We will show a family friendly movie once it gets dark enough, usually around 8:30pm.  You can watch from a lounge chair or from the pool.
-* **Family Day:** Sunday, July 18.  This is a fun filled day with hourly games for kids and adults starting at 1:00pm.  The Annual Bondholders Meeting also takes place on Family Day at 3pm.
-* **Diving Champ Meet:** Monday, July 26, and Tuesday, July 27.  Beechwood is hosting the NKSL Diving Championship Meet this year and the pool will need to close at 4pm on those two days.
+* **Movie Nights:** Saturday, June 19 and Saturday, July 10.  We will show a family-friendly movie once it gets dark enough, usually around 8:30 pm.  You can watch from a lounge chair or from the pool.
+* **Family Day:** Sunday, July 18.  This is a fun-filled day with hourly games for kids and adults starting at 1:00 pm.  The Annual Bondholders Meeting also takes place on Family Day at 3 pm.
+* **Diving Champ Meet:** Monday, July 26, and Tuesday, July 27.  Beechwood is hosting the NKSL Diving Championship Meet this year and the pool will need to close at 4 pm on those two days.
 
 Beechwood’s Treasurer, Stephanie Bogenschutz, will be at the pool on Sunday afternoon if you need to have your bonds signed/transferred.
 
@@ -40,7 +40,7 @@ We hope everyone is as excited as we are to get back to normal and enjoy our sum
 
 [Click here](https://www.esoftplanner.com/v3/planner/login.php?access=0dG81LSVxNmo65bGwm5zuJqFpA==) to login into eSoft.
 
-Welcome to the 2021 Beechwood Swim Club season!  Beechwood Swim Club is a non-profit corporation operated by a group of elected volunteers.  Our main goal is to maintain a safe, family oriented recreational facility that will continue to foster memories, friendships, and legacies for future generations.  The 2021 Beechwood Swim Club Board of Directors are:
+Welcome to the 2021 Beechwood Swim Club season!  Beechwood Swim Club is a non-profit corporation operated by a group of elected volunteers.  Our main goal is to maintain a safe, family-oriented recreational facility that will continue to foster memories, friendships, and legacies for future generations.  The 2021 Beechwood Swim Club Board of Directors are:
 
 * Josh Colvin – President
 * Jim Brannen – Vice President
