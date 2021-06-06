@@ -5,7 +5,7 @@ permalink: /membership/index.html
 ---
 ## Hello Members!
 
-We are excited for Opening Day this Saturday, May 29th.  The pool looks amazing and we are excited to see everyone enjoying it starting this weekend. 
+We are excited for an awesome Summer! At this point **our membership is at capacity with the Bonds/Rentals available**.
 
 We have a couple of items to bring to your attention prior to Opening Weekend.
 
