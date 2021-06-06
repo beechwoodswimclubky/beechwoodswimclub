@@ -5,8 +5,6 @@ permalink: /membership/club-amenities.html
 ---
 ![Beechwood Swim Club pool](/images/pool-pic.jpg)
 
-## Pool Amenities
-
 As a member of Beechwood Swim Club, the following amenities are available for you to enjoy:
 
 * One of the larger pools in Northern Kentucky
