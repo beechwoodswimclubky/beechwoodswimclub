@@ -3,7 +3,7 @@ layout: layouts/contact.njk
 title: Contact
 permalink: /contact/index.html
 ---
-<span class="bsc-sign">
+<span style="float:right;">
 ![Beechwood Swim Club sign](/images/beechwood-swim-club-sign.jpg)
 </span>
 **Business Hours**
