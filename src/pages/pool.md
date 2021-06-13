@@ -59,3 +59,5 @@ Age 5-12
 Age 12+
 </div>
 </div>
+
+![Beechwood Swim Club sign](/images/beechwood-swim-club-sign.jpg)
