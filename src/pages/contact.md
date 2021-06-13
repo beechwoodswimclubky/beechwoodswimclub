@@ -3,6 +3,9 @@ layout: layouts/contact.njk
 title: Contact
 permalink: /contact/index.html
 ---
+<span class="bsc-sign">
+![Beechwood Swim Club sign](/images/beechwood-swim-club-sign.jpg)
+</span>
 **Business Hours**
 
 * **Monday-Friday:** 11 am to 9 pm
@@ -14,6 +17,3 @@ permalink: /contact/index.html
 Beechwood Swim Club, Inc.\
 P.O. Box 17066
 Fort Mitchell, KY 41017
-<span class="bsc-sign">
-![Beechwood Swim Club sign](/images/beechwood-swim-club-sign.jpg)
-</span>
