@@ -61,3 +61,7 @@ Age 12+
 </div>
 
 ![Beechwood Swim Club sign](/images/beechwood-swim-club-sign.jpg)
+
+![Diving Board](/images/diving-board.jpg)
+
+![Beechwood Swim Club area to relax](/images/img_3473.jpg)
