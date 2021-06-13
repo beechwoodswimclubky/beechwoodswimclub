@@ -3,9 +3,6 @@ layout: layouts/contact.njk
 title: Contact
 permalink: /contact/index.html
 ---
-<span style="float:right;">
-![Beechwood Swim Club sign](/images/beechwood-swim-club-sign.jpg)
-</span>
 **Business Hours**
 
 * **Monday-Friday:** 11 am to 9 pm
