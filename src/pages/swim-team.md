@@ -59,6 +59,8 @@ All practice times will be posted on the Team Bulletin Board at the Pool by Open
 
 There are 6 regular Swim & Dive Meets beginning June 8/10th.  In late July there will be All-star Swim & Dive meets as well as the Championship meets. Meet schedule is included. <ins>**NOTE:** Due to the number of teams in the NKSL, a seven-week schedule was necessary to ensure all teams within their division would compete against each other.  No team wanted to do tri-meets, so with the extra week in the season, each team having a bye week.  This has extended the Swim/Dive season by one week.</ins>
 
+<!--
+
 **Diving Meets:** Held TUESDAY evenings beginning June 8th at various NKSL locations
 
 **Swim Meets:** Held THURSDAY evenings beginning June 10th at various NKSL locations.
@@ -160,6 +162,8 @@ GIRLS Diving Champ Meet – Wednesday, July 28 @ Beechwood
 Championship Swim Meet Prelims – Thursday, July 29 @ Taylor Mill
 
 Championship Swimming Finals – Friday, July 30 @ Taylor Mill
+
+\-->
 
 <ins>**Swim/Diving Team Banquet @ Beechwood Swim Club**</ins>
 
