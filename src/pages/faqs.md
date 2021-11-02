@@ -5,7 +5,7 @@ permalink: /membership/faqs/index.html
 ---
 <div class="tabs">
 <div class="tab">
-<input type="radio" id="faq1" name="rd"><label class="tab-label" for="faq1">How do I Transfer Bonds?</label>
+<input type="radio" id="faq11" name="rd"><label class="tab-label" for="faq11">How do I Transfer Bonds?</label>
 <div class="tab-content">
 <ul>
 <li>Create an account on the [Beechwood Swim Bond Marketplace](https://beechwoodswimclub.freeforums.net/).</li>
@@ -16,7 +16,7 @@ permalink: /membership/faqs/index.html
 </div>
 
 <div class="tab">
-<input type="radio" id="faq1" name="rd"><label class="tab-label" for="faq1">I'm a New Member. How do I Transer Bonds?</label>
+<input type="radio" id="faq12" name="rd"><label class="tab-label" for="faq12">I'm a New Member. How do I Transer Bonds?</label>
 <div class="tab-content">
 <ol>
 <li>Please email the club to verify the person you are buying from is in good standing (\\[beecwhoodswimclubky@gmail.com](mailto:beecwhoodswimclubky@gmail.com))</li>
