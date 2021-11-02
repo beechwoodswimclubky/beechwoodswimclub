@@ -8,8 +8,8 @@ permalink: /membership/faqs/index.html
 <input type="radio" id="faq11" name="rd"><label class="tab-label" for="faq11">How do I Transfer Bonds?</label>
 <div class="tab-content">
 <ul>
-<li>Create an account on the \[Beechwood Swim Bond Marketplace](https://beechwoodswimclub.freeforums.net/).</li>
-<li>**Seller**: Please make sure your account is good standing.</li>
+<li>Create an account on the <a href="https://beechwoodswimclub.freeforums.net/">Beechwood Swim Bond Marketplace</a>.</li>
+<li><b>Seller</b>: Please make sure your account is good standing.</li>
 <li>Once the sale transaction is complete, please give the new member the 4 paper bonds.</li>
 <li>*If you have lost your bonds, you will need to contact the pool for replacement.  You will assessed a $50 replacement fee.</li>
 </ul></div>
@@ -19,7 +19,7 @@ permalink: /membership/faqs/index.html
 <input type="radio" id="faq12" name="rd"><label class="tab-label" for="faq12">I'm a New Member. How do I Transer Bonds?</label>
 <div class="tab-content">
 <ol>
-<li>Please email the club to verify the person you are buying from is in good standing (\\[beecwhoodswimclubky@gmail.com](mailto:beecwhoodswimclubky@gmail.com))</li>
+<li>Please email the club to verify the person you are buying from is in good standing (<a href="mailto:beecwhoodswimclubky@gmail.com">beecwhoodswimclubky@gmail.com</a>)</li>
 <li>Please email the following information to get added to the pool system: Address, Phone number, All of the name and DOBs on the membership</li>
 <li>We will also need a check for a $50 transfer fee sent to PO Box 10766 Ft Mitchell KY 41017</li>
 <li>Set up time with Treasurer to get Bonds singed over.</li>
