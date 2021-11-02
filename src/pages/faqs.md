@@ -5,15 +5,14 @@ permalink: /membership/faqs/index.html
 ---
 <div class="tabs">
 <div class="tab">
-<input type="radio" id="faq1" name="rd"><label class="tab-label" for="faq1">How do I transfer bonds?</label>
-<div class="tab-content">\[ul type="disc"]\[li]Create an account on the [Beechwood Swim Bond Marketplace](https://beechwoodswimclub.freeforums.net/).
-
-\[/li]\[b]Seller\[/b]: Please make sure your account is good standing.
-
-\[/li]Once the sale transaction is complete, please give the new member the 4 paper bonds.
-
-\[/li] **If you have lost your bonds, you will need to contact the pool for replacement.  You will assessed a $50 replacement fee.** \[/li]<div>
-
+<input type="radio" id="faq1" name="rd"><label class="tab-label" for="faq1">How do I Transfer Bonds?</label>
+<div class="tab-content">
+<ul>
+<li>Create an account on the [Beechwood Swim Bond Marketplace](https://beechwoodswimclub.freeforums.net/).</li>
+<li>[b]Seller\[/b]: Please make sure your account is good standing.</li>
+<li>Once the sale transaction is complete, please give the new member the 4 paper bonds.</li>
+<li>** If you have lost your bonds, you will need to contact the pool for replacement.  You will assessed a $50 replacement fee. **</li>
+</ul></div>
 </div>
 
 <div class="tab">
