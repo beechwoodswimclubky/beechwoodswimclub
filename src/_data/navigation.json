@@ -11,6 +11,11 @@
         {
           "text": "Club Amenities",
           "url": "/membership/club-amenities"
+        },
+        {
+          "text": "Swim Bond Marketplace",
+          "url": "https://beechwoodswimclub.freeforums.net/",
+          "external": true
         }
       ]
     },
