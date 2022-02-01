@@ -88,7 +88,13 @@ function CountdownTracker(label, value) {
     backBottom = el.querySelector(".card__back .card__bottom");
 
   this.update = function (val) {
-    val = ("0" + val).slice(-2);
+    //val = ("0" + val).slice(-2);
+    if (val > 99) {
+      val = ( '0' + val ).slice(-3);
+    } else {
+      val = ( '0' + val ).slice(-2);
+    }
+    
     if (val !== this.currentValue) {
       if (this.currentValue >= 0) {
         back.setAttribute("data-value", this.currentValue);
