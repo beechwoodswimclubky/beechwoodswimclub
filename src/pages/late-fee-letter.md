@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Late Fee Letter
-permalink: /late-fee-letter
+permalink: /membership/late-fee-letter
 ---
 May 16, 2022
 
