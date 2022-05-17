@@ -16,7 +16,7 @@ membershipDues: >-
   On behalf of the Board of Directors, management and staff welcome to the 2021 Beechwood Swim club Summer Swim Season. As long as the health inspection goes well **we will be opening on May 29th**. Beechwood Swim Club is a non-profit corporation that is operated by a group of volunteers. Membership available [here](https://beechwood-swim-club.netlify.app/membership).
 
 
-  ---
+  - - -
 
 
   ## Late Fee
