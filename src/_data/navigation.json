@@ -5,10 +5,6 @@
       "url": "/membership",
       "sub_items": [
         {
-          "url": "/membership/member-newsletter",
-          "text": "Member Newsletter"
-        },
-        {
           "url": "/membership/faqs",
           "text": "Membership FAQs"
         },
