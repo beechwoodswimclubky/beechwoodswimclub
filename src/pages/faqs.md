@@ -38,7 +38,7 @@ permalink: /membership/faqs/index.html
 
 <div class="tab">
 <input type="radio" id="faq3" name="rd"><label class="tab-label" for="faq3">How does someone become a bond-holder?</label>
-<div class="tab-content">Bonds are available for purchase directly from the club or from bond-holders in private sales. Information about either type of purchase can be obtained by sending an inquiry to \\\\\\\\\\[beechwoodswimclubky@gmail.com](mailto:beechwoodswimclubky@gmail.com)</div>
+<div class="tab-content">Bonds are available for purchase directly from the club or from bond-holders in private sales. Information about either type of purchase can be obtained by sending an inquiry to <a href="mailto:beechwoodswimclubky@gmail.com">beechwoodswimclubky@gmail.com</a></div>
 </div>
 
 <div class="tab">
@@ -53,7 +53,7 @@ permalink: /membership/faqs/index.html
 
 <div class="tab">
 <input type="radio" id="faq6" name="rd"><label class="tab-label" for="faq6">What is the duration of the club’s season, and when must membership dues be paid for the season?</label>
-<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2021 season are due by April 15th. A $50 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid with credit card in our member portal by logging in here \\\\\\\\\\\*\\\\\\\\\\\**. Dues can be paid by mailing a check to:
+<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2021 season are due by April 15th. A $50 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid with credit card in our member portal by logging in here \\\\\\\\\\\\*\\\\\\\\\\\\**. Dues can be paid by mailing a check to:
 
 Beechwood Swim Club\
 PO Box 17066\
@@ -86,6 +86,6 @@ The most convenient way to bring any issues to the board of directors is to send
 
 <div class="tab">
 <input type="radio" id="faq10" name="rd"><label class="tab-label" for="faq10">How do I reserve time slots during the 2021 season?</label>
-<div class="tab-content">At this time, the board does not know if weekend reservations will be required for 2021.  If necessary, the pool will implement the same reservation system that was used in 2020.  The link to the weekend reservation site is \\\\\\\\\\\*\\\\\\\\\\\*\*.  Similar to last year, the reservation window for the following weekend will open each Monday at midnight. Please see the step-by-step instructions in the following link.</div>
+<div class="tab-content">At this time, the board does not know if weekend reservations will be required for 2021.  If necessary, the pool will implement the same reservation system that was used in 2020.  The link to the weekend reservation site is \\\\\\\\\\\\*\\\\\\\\\\\\*\*.  Similar to last year, the reservation window for the following weekend will open each Monday at midnight. Please see the step-by-step instructions in the following link.</div>
 </div>
 </div>
