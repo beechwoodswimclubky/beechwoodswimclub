@@ -13,7 +13,7 @@ membershipDues: >-
   ## Membership Dues
 
 
-  On behalf of the Board of Directors, management and staff welcome to the 2022 Beechwood Swim club Summer Swim Season. As long as the health inspection goes well **we will be opening on May 29th @ 11:00 AM**. Beechwood Swim Club is a non-profit corporation that is operated by a group of volunteers.
+  On behalf of the Board of Directors, management and staff welcome to the 2022 Beechwood Swim club Summer Swim Season. As long as the health inspection goes well **we will be opening on May 28th @ 11:00 AM**. Beechwood Swim Club is a non-profit corporation that is operated by a group of volunteers.
 ---
 Season info coming soon. To get on a bond waiting list, please email [beechwoodswimclubky@gmail.com](mailto:beechwoodswimclubky@gmail.com)
 
