@@ -5,4 +5,4 @@ permalink: /events/index.html
 ---
 ## Important dates for 2022 Pool Season
 
-![](/images/bsc-events.jpg)
+![Beechwood Swim Club events](src/images/bsc-events.jpg "Beechwood Swim Club events")
