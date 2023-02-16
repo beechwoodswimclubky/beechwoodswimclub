@@ -5,6 +5,16 @@ permalink: /membership/index.html
 ---
 ## Hello Members!
 
+2023 Beechwood Swim Club Board of Directors
+
+* Josh Colvin – President
+* Kelley Young – Vice President
+* Stephanie Bogenschutz – Treasurer
+* Kyle Burns – Secretary
+* Gene Burchell – Director
+* Barb Erardi – Director
+* Cheryl Ralph – Director
+
 The temperature was in the 70's today, and we are gaining more minutes of daylight with each passing day. Before we know it, winter will be a distant memory, and the sights, sounds, and feelings that have defined summer for generations of us will be alive at Beechwood Swim Club. 
 
 One of the more prominent changes from last season is that the club is transitioning to a new management software called *[Member Splash](https://beechwoodswimclub.membersplash.com/)*. Several board members vetted new software programs and concluded that Member Splashwas a more sophisticated option to serve the growing need for online management and communication with our members. While many of the benefits may not be visible from the perspective of members, our new software will allow you to pay your membership, buy guest passes, as well as have the front gate staff check you and your guests in quickly at the front gate. There is a learning curve with any new software, and while we are confident in the need for the switch, we ask that you be patient with us when technology issues inevitably arise. ***Information on how to log into [Member Splash](https://beechwoodswimclub.membersplash.com/) is provided at the conclusion of this newsletter***.
@@ -61,13 +71,3 @@ Welcome to the 2021 Beechwood Swim Club season!  Beechwood Swim Club is a non-pr
 Sincerely,
 
 Beechwood Board of Directors
-
-2023 Beechwood Swim Club Board of Directors
-
-* Josh Colvin – President
-* Kelley Young – Vice President
-* Stephanie Bogenschutz – Treasurer
-* Kyle Burns – Secretary
-* Gene Burchell – Director
-* Barb Erardi – Director
-* Cheryl Ralph – Director
