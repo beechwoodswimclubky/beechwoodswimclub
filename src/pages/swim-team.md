@@ -165,6 +165,7 @@ Championship Swimming Finals – Friday, July 30 @ Taylor Mill
 
 \-->
 
+<!--
 <ins>**Swim/Diving Team Banquet @ Beechwood Swim Club**</ins>
 
 **Banquet for the entire team including the Little Cudas – Likely Sunday, 25-July (TBD)**
@@ -188,3 +189,4 @@ If you have any issues with the Swimville website, please contact Heather Wooley
 If you have any questions, please contact Josh Colvin at [josh_colvin@ymail.com](mailto:josh_colvin@ymail.com).  GO CUDAS!!!!
 
 ![trophy case](/images/swimtrophy.jpg)
+-->
