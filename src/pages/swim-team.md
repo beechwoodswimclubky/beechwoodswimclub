@@ -14,7 +14,7 @@ The main goal of the Beechwood Barracudas is to provide a fun environment where 
 For team information, registration, and other important information, including practice and meet schedules, please go to the following link: [https://www.teamunify.com/Home.jsp?*tabid*=0&team=recnkbscky](https://www.teamunify.com/Home.jsp?_tabid_=0&team=recnkbscky)
 
 [Beechwood Team Unify Page](https://www.teamunify.com/Home.jsp?_tabid_=0&team=recnkbscky)
-
+<!--
 <hr>
 
 ## **Beechwood Barracuda Swim and Dive Team 2021**
@@ -58,7 +58,7 @@ All practice times will be posted on the Team Bulletin Board at the Pool by Open
 ***2021 MEET SCHEDULE:***
 
 There are 6 regular Swim & Dive Meets beginning June 8/10th.  In late July there will be All-star Swim & Dive meets as well as the Championship meets. Meet schedule is included. <ins>**NOTE:** Due to the number of teams in the NKSL, a seven-week schedule was necessary to ensure all teams within their division would compete against each other.  No team wanted to do tri-meets, so with the extra week in the season, each team having a bye week.  This has extended the Swim/Dive season by one week.</ins>
-
+-->
 <!--
 
 **Diving Meets:** Held TUESDAY evenings beginning June 8th at various NKSL locations
