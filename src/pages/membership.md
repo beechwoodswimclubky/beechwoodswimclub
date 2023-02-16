@@ -59,6 +59,7 @@ Mark your calendars for Opening Day, Saturday, May 27th. We cannot wait to see y
 Welcome to the 2021 Beechwood Swim Club season!  Beechwood Swim Club is a non-profit corporation operated by a group of elected volunteers.  Our main goal is to maintain a safe, family-oriented recreational facility that will continue to foster memories, friendships, and legacies for future generations.  The 2021 Beechwood Swim Club Board of Directors are:
 
 Sincerely,
+
 Beechwood Board of Directors
 
 * Josh Colvin – President
