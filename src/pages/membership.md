@@ -64,9 +64,7 @@ As we head into the 2023 season, we are continuing our commitment to provide the
 
 Lastly the club is hiring employees for this upcoming summer. Interviews will be held in the Anne Room of the Erlanger Public Library on March 11th and March 19th from 1:00 PM - 2:30 PM. This information is included in the flyer attached [here](https://mcusercontent.com/d2234782ae340940dd72dad5c/images/63b915e9-abe9-b245-9183-0de45990d5bf.jpg). We would love to have our local kids join us this summer. 
  
-Mark your calendars for Opening Day, Saturday, May 27th. We cannot wait to see you; sunnier days are ahead. 
-
-Welcome to the 2021 Beechwood Swim Club season!  Beechwood Swim Club is a non-profit corporation operated by a group of elected volunteers.  Our main goal is to maintain a safe, family-oriented recreational facility that will continue to foster memories, friendships, and legacies for future generations.  The 2021 Beechwood Swim Club Board of Directors are:
+Mark your calendars for Opening Day, Saturday, May 27th. We cannot wait to see you; sunnier days are ahead.
 
 Sincerely,
 
