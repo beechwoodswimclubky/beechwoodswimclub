@@ -62,10 +62,12 @@ Sincerely,
 
 Beechwood Board of Directors
 
+2023 Beechwood Swim Club Board of Directors
+
 * Josh Colvin – President
-* Jim Brannen – Vice President
+* Kelley Young – Vice President
 * Stephanie Bogenschutz – Treasurer
-* Barb Erardi – Secretary
+* Kyle Burns – Secretary
 * Gene Burchell – Director
-* Kyle Burns – Director
-* Kelley Young – Director
+* Barb Erardi – Director
+* Cheryl Ralph – Director
