@@ -9,5 +9,5 @@ Swim Lessons are offered in two sessions.  Sign-up information will be sent to a
 
 Swim Lessons will take place for a two-week session in June and a two-week session in July.  Each session will have 4 classes offered at 9:30, 10:00, and 10:30.  Class size will be limited to 10 students. 
 
-* **Session 1:** June 21 through July 1, Monday through Thursday
-* **Session 2:** July 12 through July 22, Monday through Thursday
+* **Session 1:** TBA
+* **Session 2:** TBA
