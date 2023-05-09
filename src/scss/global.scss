@@ -24,6 +24,10 @@ body {
   text-transform: uppercase;
 }
 
+ul li ul {
+  margin-left: 2rem;
+}
+
 .mobile-only {
   display: none;
 }
