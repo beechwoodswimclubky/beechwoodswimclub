@@ -10,7 +10,7 @@ permalink: /membership/index.html
  
 ## Hello Members!
 
-2023 Beechwood Swim Club Board of Directors
+2024 Beechwood Swim Club Board of Directors
 
 * Josh Colvin – President
 * Barb Erardi – Vice President
