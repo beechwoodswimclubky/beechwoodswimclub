@@ -6,8 +6,12 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-cache-assets": "^2.3.0",
+    "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
+    "@jridgewell/sourcemap-codec": "^1.4.15",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
     "@tbranyen/jsdom": "^13.0.0",
     "axios": "^1.6.7",
     "concurrently": "^7.6.0",
@@ -15,11 +19,13 @@
     "eleventy-plugin-excerpt": "^1.1.2",
     "html-minifier": "^4.0.0",
     "json-to-scss": "^1.6.2",
+    "object-keys": "^1.1.1",
     "request": "^2.88.2",
     "sass": "^1.62.1",
     "semver": "^7.5.1",
     "slugify": "^1.6.6",
     "stalfos": "github:hankchizljaw/stalfos#c8971d22726326cfc04089b2da4d51eeb1ebb0eb",
+    "uuid": "^9.0.1",
     "xml2js": "^0.6.2"
   },
   "devDependencies": {
