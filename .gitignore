@@ -18,7 +18,3 @@ src/_includes/assets/*
 
 # Hide env variables
 .env
-
-# Hide data cache for API calls
-.cache
-_datacache
