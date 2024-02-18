@@ -4,12 +4,12 @@
   "description": "A simple Eleventy starter kit to help you have a blog of your own",
   "main": "index.js",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-cache-assets": "^2.3.0",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "@tbranyen/jsdom": "^13.0.0",
-    "axios": "^0.26.1",
+    "axios": "^1.6.7",
     "concurrently": "^7.6.0",
     "dotenv": "^16.0.3",
     "eleventy-plugin-excerpt": "^1.1.2",
@@ -20,7 +20,7 @@
     "semver": "^7.5.1",
     "slugify": "^1.6.6",
     "stalfos": "github:hankchizljaw/stalfos#c8971d22726326cfc04089b2da4d51eeb1ebb0eb",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@erquhart/rollup-plugin-node-builtins": "^2.1.5",
