@@ -154,7 +154,7 @@ Another necessary change that some may perceive as significant is that ***we wil
 
 Members wishing to pay by check can bring their check to the club on those designated occasions. Otherwise, please utilize the online payment function in *[Member Splash](https://beechwoodswimclub.membersplash.com/)*.
 
-The membership dues for the 2023 season remain unchanged from the 2022 season. However, the State of Kentucky has passed a new law effective January 1, 2023 that requires a 6% sales tax to be applied to club membership fees.  The sales tax has been added to the membership dues and are listed below: 
+The membership dues for the 2024 season remain unchanged from the 2022 season. However, the State of Kentucky has passed a new law effective January 1, 2024 that requires a 6% sales tax to be applied to club membership fees.  The sales tax has been added to the membership dues and are listed below: 
 
 **Family** - $477 ($450 dues + $27 sales tax)
 - Option 1: Owner, spouse & dependent children who are 25 years old or younger and ***residing in the home***. 
@@ -168,7 +168,7 @@ The membership dues for the 2023 season remain unchanged from the 2022 season. H
 **Babysitter** ‐ $106 ($100 + $6 sales tax)
 - Up to two (2) designated babysitters can be listed on the account for a charge of   $100.00 each plus 6% sales tax. The babysitter pass can only be used when one (1) or more of the dependent children are present and neither parent is present. 
 
-The deadlines for payment of 2023 dues are as follows:
+The deadlines for payment of 2024 dues are as follows:
 - **March 15th, 2023** - Members who pay **on or before this date** will receive **five (5) free guest passes** added to their account
 - **April 15th, 2023** - Members **must pay on or before this date** to avoid being a assessed a **late fee**
 
