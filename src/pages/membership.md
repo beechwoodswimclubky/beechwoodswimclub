@@ -13,12 +13,12 @@ permalink: /membership/index.html
 2024 Beechwood Swim Club Board of Directors
 
 * Josh Colvin – President
-* Kelley Young – Vice President
+* Barb Erardi – Vice President
 * Stephanie Bogenschutz – Treasurer
-* Kyle Burns – Secretary
-* Gene Burchell – Director
-* Barb Erardi – Director
+* John Piccirillo – Secretary
 * Cheryl Ralph – Director
+* Laurie Baurer – Director
+* Eric Mooney – Director
 
 <p style="font-weight: bold; text-decoration: underline;">News from the Board of Directors</p>
 <p>It may be hard to imagine at this point, but the swim season officially begins in 100 days on Saturday, May 25.   We are very excited for the upcoming swim season and excited to share the following information with Beechwood’s members.</p>
