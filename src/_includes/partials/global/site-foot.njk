@@ -192,7 +192,7 @@ if( $("#countdown").length != 0 ) {
   var deadline = "May 25 2024 10:00:00 EST";
   var c = new Clock(deadline, function () {
     $(".pool-open").removeClass("hide").text("🎉 The Pool is OPEN! 🎉");
-    $(".pool-will-open").addClass("hide");
+    $(".pool-will-open, #countdown").addClass("hide");
     //alert('countdown complete')
   });
   document.getElementById("countdown").appendChild(c.el);
