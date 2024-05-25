@@ -432,4 +432,16 @@ article > .intro {
     margin-top: 0em !important;
 }
 
-
+.confetti {
+    > .particle {
+        opacity: 0;
+        position: absolute;
+        animation: confetti 3s ease-in infinite;
+        &.c1 {
+            background-color: rgba(76,175,80,0.5);
+        }
+        &.c2 {
+            background-color: rgba(156,39,176,0.5);
+        }
+    }
+}
