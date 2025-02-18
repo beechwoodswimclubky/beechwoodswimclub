@@ -10,31 +10,31 @@ permalink: /membership/index.html
  
 ## Hello Members!
 
-2024 Beechwood Swim Club Board of Directors
+2025 Beechwood Swim Club Board of Directors
 
-* Josh Colvin – President
-* Barb Erardi – Vice President
-* Stephanie Bogenschutz – Treasurer
-* John Piccirillo – Secretary
+* Stephanie Bogenschutz – President
+* John Piccirillo – Vice President
+* Eric Mooney – Treasurer
+* Laurie Baurer – Secretary
+* Josh Colvin – Director
 * Cheryl Ralph – Director
-* Laurie Baurer – Director
-* Eric Mooney – Director
+* Stephanie Eby – Director
 
 <p style="font-weight: bold; text-decoration: underline;">News from the Board of Directors</p>
-<p>It may be hard to imagine at this point, but the swim season officially begins in 100 days on Saturday, May 25.   We are very excited for the upcoming swim season and excited to share the following information with Beechwood’s members.</p>
+<p>Summer is just around the corner and we are starting our pre-season work.  We cannot wait for the 2025 pool season to get here!</p>
  
-<p>The Board of Directors would like to welcome our newest Board Members: Laurie Bauer, Eric Mooney, and John Piccirillo.  We are looking forward to working with Laurie, Eric, and John to ensure that Beechwood Swim Club continues to be a fun, safe, and family friendly experience for its members for years to come.</p>
+<p>The Board of Directors would like to welcome our newest Board Member: Stephanie Eby. Stephanie has been a life long member and is so excited to serve in her role on the board.  We would also like to thank Barb Erardii for all 11 years on the board.  We appreciate all she has done for us.</p>
  
-<p>Last year saw some significant changes for members with the change to the Member Splash software system.  While there was a learning curve with the system as we progressed through the season, the overall benefits of the new system were noticed by all.  We will continue to use Member Splash as our membership software for the 2024 season.  The link to Beechwood’s Member Splash site is <a href="https://beechwoodswimclub.membersplash.com/">https://beechwoodswimclub.membersplash.com</a></p>
+<p>Last year the pool had significant unexpected repairs to our pool pumps. This forced us to have to close for a few days.  We are thankful to the surrounding clubs for welcoming our members to their clubs without hesitation.   We appreciate everyone’s flexibility and understanding during this time.</p>
  
-<p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities.  For 2024, the Board has committed to the following improvements to the Swim Club.</p>
+<p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities. For 2025, the Board has committed to continuing to make improvements to the Club. Our main focus is the pool and the pump room. We will continue to make investments that will help our pool last for years to come. You may have heard of other pools starting to see issues with their pool and older equipment. We have taken pride in our proactive approach to prevent major issues. The pump breaking last year was the first major repair we have encountered in many years. We feel confident with the proactive repairs we have made over the winter season, that we are set for a successful summer.</p>
 
 <ul>
     <li>First, additional lounge chairs will be purchased for the pool deck.  Demand was high last season for lounge chairs on weekends, so additional chairs should help to lessen the demand as pool attendance continues to increase.</li>
     <li>Second, a pickleball court will be installed in the play area next to the basketball courts.  We are excited to be able to bring pickleball to the club for our members.  There will be additional information shared on the pickleball courts as we get closer to the pool season.</li>
 </ul>
  
-<p style="font-weight: bold;">2024 Membership Dues</p>
+<p style="font-weight: bold;">2025 Membership Dues</p>
 <p>Due to increasing costs in staffing, chemicals, and other items necessary to keep the pool operational, the Board voted to increase membership dues for the first time since 2018.  While membership dues have increased, the Board worked to keep annual membership dues affordable and among the lowest in the area while also balancing the costs to operate the club successfully and plan for future renovations.  The 2024 dues are as follows:</p>
 
 <ul>
