@@ -1,3 +1,4 @@
+@use "sass:color";
 $midnight: navy;
 $clouds: #ecf0f1;
 
@@ -23,7 +24,7 @@ $clouds: #ecf0f1;
       transition: all 0.4s ease-in-out;
       /* Icon */
       &:hover {
-        background: darken($midnight, 10%);
+        background: color.adjust($midnight, $lightness: -10%);
         color: white;
       }
       &::after {
@@ -49,7 +50,7 @@ $clouds: #ecf0f1;
       background: $midnight;
       cursor: pointer;
       &:hover {
-        background: darken($midnight, 10%);
+        background: color.adjust($midnight, $lightness: -10%);
       }
     }
     
@@ -61,7 +62,7 @@ $clouds: #ecf0f1;
     // :checked
     input:checked {
       + .tab-label {
-        background: darken($midnight, 10%);
+        background: color.adjust($midnight, $lightness: -10%);
         color: white;
         &::after {
           transform: rotate(90deg);

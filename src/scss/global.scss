@@ -1,15 +1,17 @@
-@import 'config';
+@use "sass:meta";
+@use 'config';
 
 // Pull in the stalfos lib
-@import '../../node_modules/stalfos/stalfos.scss';
+@use '../../node_modules/stalfos/stalfos.scss';
 
 // Local mixins
-@import 'mixins/dark-mode';
+@use 'mixins/dark-mode';
 
-@import 'theme';
+@use 'theme';
 
 // Local dependencies
-@import 'typography';
+@use 'typography';
+@use "../../node_modules/stalfos/src/functions/get-size";
 
 /**
  * GLOBAL STYLES
@@ -59,7 +61,7 @@ hr {
   max-width: 500px;
   background: #42a642 !important;
   border: none;
-  margin: get-size(900) auto;
+  margin: get-size.get-size(900) auto;
 }
 
 .hide {
@@ -81,30 +83,30 @@ img {
  */
 
 // Utils
-@import 'utilities/inner-wrapper';
-@import 'utilities/visually-hidden';
-@import 'utilities/wrapper';
+@include meta.load-css('utilities/inner-wrapper');
+@include meta.load-css('utilities/visually-hidden');
+@include meta.load-css('utilities/wrapper');
 
 // Components
-@import 'components/button';
-@import 'components/form';
-@import 'components/heading-permalink';
-@import 'components/intro';
-@import 'components/nav';
-@import 'components/pagination';
-@import 'components/post';
-@import 'components/post-list';
-@import 'components/site-head';
-@import 'components/site-foot';
-@import 'components/skip-link';
-@import 'components/syntax-highlighting';
-@import 'components/video-player';
+@include meta.load-css('components/button');
+@include meta.load-css('components/form');
+@include meta.load-css('components/heading-permalink');
+@include meta.load-css('components/intro');
+@include meta.load-css('components/nav');
+@include meta.load-css('components/pagination');
+@include meta.load-css('components/post');
+@include meta.load-css('components/post-list');
+@include meta.load-css('components/site-head');
+@include meta.load-css('components/site-foot');
+@include meta.load-css('components/skip-link');
+@include meta.load-css('components/syntax-highlighting');
+@include meta.load-css('components/video-player');
 
-@import 'components/accordion';
-@import 'components/countdown';
-@import 'components/price-table';
-@import 'components/menu';
-@import 'components/schedule';
+@include meta.load-css('components/accordion');
+@include meta.load-css('components/countdown');
+@include meta.load-css('components/price-table');
+@include meta.load-css('components/menu');
+@include meta.load-css('components/schedule');
 
 theme-toggle { display: none; }
 
